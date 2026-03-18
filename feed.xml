@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ironline</title>
+    <description>Stories about the people who build things.</description>
+    <link>https://eggmcmark.github.io/ironline-podcast</link>
+    <language>en</language>
+    <managingEditor>mdannyg@gmail.com (Ironline)</managingEditor>
+    <image>
+      <url>https://eggmcmark.github.io/ironline-podcast/cover.jpg</url>
+      <title>Ironline</title>
+      <link>https://eggmcmark.github.io/ironline-podcast</link>
+    </image>
+    <itunes:image href="https://eggmcmark.github.io/ironline-podcast/cover.jpg" />
+    <itunes:author>Ironline</itunes:author>
+    <itunes:summary>Stories about the people who build things.</itunes:summary>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
