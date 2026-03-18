@@ -8,6 +8,10 @@
     <link>https://eggmcmark.github.io/ironline-podcast</link>
     <language>en</language>
     <managingEditor>mdannyg@gmail.com (Ironline)</managingEditor>
+    <itunes:owner>
+      <itunes:name>Ironline</itunes:name>
+      <itunes:email>mdannyg@gmail.com</itunes:email>
+    </itunes:owner>
     <image>
       <url>https://eggmcmark.github.io/ironline-podcast/cover.jpg</url>
       <title>Ironline</title>
@@ -18,5 +22,15 @@
     <itunes:summary>Stories about the people who build things.</itunes:summary>
     <itunes:category text="Society &amp; Culture" />
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Ironline — Coming Soon</title>
+      <description><![CDATA[Stories about the people who build things. New episodes coming soon.]]></description>
+      <pubDate>Tue, 18 Mar 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://eggmcmark.github.io/ironline-podcast/audio/trailer.mp3" type="audio/mpeg" length="74022" />
+      <itunes:duration>0:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">ironline-trailer</guid>
+    </item>
   </channel>
 </rss>
