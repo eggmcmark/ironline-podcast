@@ -23,6 +23,18 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Future Economy — The Okoye Commission</title>
+      <description><![CDATA[Marcus Hale, a meticulous Brooklyn contractor, finishes a perfect kitchen for absent Upper East Side clients and feels the hollow of building beautiful things for people who will never notice. When his tile-setter friend Ray calls about a professor in Crown Heights with exquisite taste and no cash, Marcus visits the brownstone on Sterling Place and encounters Nadia Okoye — an economist who proposes equity participation instead of payment. The brownstone, the spec, and the fig tree in the garden convince him to say yes to the strangest deal of his career. Episode 1 of The Future Economy, a serialized fiction series about three generations of a family who accidentally build a new economic order.]]></description>
+      <pubDate>Thu, 03 Apr 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://eggmcmark.github.io/ironline-podcast/audio/the-future-economy-ep001.mp3" type="audio/mpeg" length="32354987" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>33:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-future-economy-ep001</guid>
+    </item>
+    <item>
       <title>Ironline — Coming Soon</title>
       <description><![CDATA[Stories about the people who build things. New episodes coming soon.]]></description>
       <pubDate>Tue, 18 Mar 2026 10:00:00 +0000</pubDate>

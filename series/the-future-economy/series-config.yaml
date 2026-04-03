@@ -1,0 +1,85 @@
+# Series Configuration: The Future Economy
+# "The Weight of Real Things" — adapted for episodic audio fiction
+
+series:
+  name: "The Future Economy"
+  subtitle: "The Weight of Real Things"
+  slug: "the-future-economy"
+  status: "active"
+  started: "2026-04-03"
+
+  # Episode parameters
+  episode:
+    target_duration_minutes: 40
+    target_word_count: 7500  # ~180 wpm narration pace
+    word_count_range: [6500, 8500]
+    release_schedule: "weekly"
+    release_day: "Thursday"
+
+  # Season structure (mapped from novel parts)
+  seasons:
+    - number: 1
+      title: "The First Trade"
+      time_period: "2027-2040"
+      pov_character: "Marcus Hale"
+      target_episodes: 14
+      status: "in_progress"
+    - number: 2
+      title: "The Compact"
+      time_period: "2041-2072"
+      pov_character: "Elena Hale"
+      target_episodes: 16
+      status: "planned"
+    - number: 3
+      title: "The Foundation World"
+      time_period: "2098-2118"
+      pov_character: "Jonah Hale"
+      target_episodes: 14
+      status: "planned"
+    - number: 4
+      title: "The Weight of Real Things"
+      time_period: "2120-2125"
+      pov_character: "Jonah Hale"
+      target_episodes: 12
+      status: "planned"
+
+  # Narrative rules
+  narrative:
+    pov: "third_person_limited"
+    tense: "past"
+    tone_register:
+      season_1: "documentary-warm, sensory, the voice of someone telling you something true"
+      season_2: "driven, kinetic, Elena's energy"
+      season_3: "observational, precise, Jonah learning to see"
+      season_4: "stripped-down reckoning, no rhetorical comfort"
+
+  # Mission statement — the agent reviews this every episode
+  mission: |
+    Tell a sprawling, realistic tale of how civilization changes when the
+    economy reorganizes around real assets and embodied skill. Explore the
+    ways human flourishing will take forms as unimaginable to us as jet
+    travel was to an Oregon Trail settler. Ground every speculation in
+    trends that exist today. Be honest about human nature — humans are
+    humans are humans. Technology changes the scenery, not the species.
+    Do not be naive about AI hype. Do not be myopic. Show the listener
+    a future that feels inevitable in retrospect.
+
+  # Audio configuration
+  audio:
+    voice_role: "narrator"
+    model: "eleven_multilingual_v2"
+    output_format: "mp3_44100_128"
+    voice_settings:
+      stability: 0.50
+      similarity_boost: 0.75
+      style: 0.25
+      use_speaker_boost: true
+
+  # Publishing
+  publishing:
+    feed_title: "Ironline"
+    episode_prefix: "The Future Economy"
+    category: "Fiction"
+    subcategory: "Science Fiction"
+    explicit: false
+    publish_as_draft: false

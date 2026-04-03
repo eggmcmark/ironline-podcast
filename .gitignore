@@ -1,0 +1,12 @@
+# API keys
+.env
+
+# Audio working directory (the served copy is in audio/*.mp3)
+audio/the-future-economy/
+
+# Engine logs
+engine/logs/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "audio_file": "C:\\Users\\mark\\CODE\\ironline-podcast\\audio\\the-future-economy\\2026-04-03_ep001.mp3",
+  "audio_filename": "2026-04-03_ep001.mp3",
+  "generated_at": "2026-04-03T10:00:32Z",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "model_id": "eleven_multilingual_v2",
+  "characters_used": 32407,
+  "file_size_bytes": 32354987,
+  "series": "the-future-economy",
+  "episode": 1,
+  "chunks": 8
+}

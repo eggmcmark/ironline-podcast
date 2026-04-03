@@ -1,0 +1,47 @@
+# Series Configuration Template
+# Copy this file to series/<your-series>/series-config.yaml
+
+series:
+  name: "Your Series Name"
+  subtitle: ""
+  slug: "your-series-name"
+  status: "active"  # active, paused, completed
+  started: "YYYY-MM-DD"
+
+  episode:
+    target_duration_minutes: 40
+    target_word_count: 7500
+    word_count_range: [6500, 8500]
+    release_schedule: "weekly"
+    release_day: "Thursday"
+
+  seasons:
+    - number: 1
+      title: "Season One"
+      target_episodes: 12
+      status: "planned"
+
+  narrative:
+    pov: "third_person_limited"
+    tense: "past"
+
+  mission: |
+    Describe the core purpose and thematic direction of this series.
+    The agent reviews this before every episode to stay on course.
+
+  audio:
+    voice_role: "narrator"
+    model: "eleven_multilingual_v2"
+    output_format: "mp3_44100_128"
+    voice_settings:
+      stability: 0.50
+      similarity_boost: 0.75
+      style: 0.25
+      use_speaker_boost: true
+
+  publishing:
+    feed_title: "Ironline"
+    episode_prefix: "Series Name"
+    category: "Fiction"
+    explicit: false
+    publish_as_draft: false
