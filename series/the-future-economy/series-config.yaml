@@ -1,81 +1,70 @@
-# Series Configuration: The Future Economy
-# "The Weight of Real Things" — adapted for episodic audio fiction
+# Series Configuration: The Future Economy (v4)
 
 series:
   name: "The Future Economy"
-  subtitle: "The Weight of Real Things"
+  subtitle: "The Inheritance"
   slug: "the-future-economy"
   status: "active"
   started: "2026-04-03"
 
-  # Episode parameters
   episode:
     target_duration_minutes: 40
-    target_word_count: 7500  # ~180 wpm narration pace
+    target_word_count: 7500
     word_count_range: [6500, 8500]
     release_schedule: "weekly"
     release_day: "Thursday"
 
-  # Season structure (mapped from novel parts)
   seasons:
     - number: 1
-      title: "The First Trade"
-      time_period: "2027-2040"
-      pov_character: "Marcus Hale"
+      title: "The Inheritance"
+      time_period: "2126"
+      pov_character: "Kirin Saleh (primary) + ensemble"
       target_episodes: 14
+      structure: "hero's journey — each episode a new environment"
       status: "in_progress"
     - number: 2
-      title: "The Compact"
-      time_period: "2041-2072"
-      pov_character: "Elena Hale"
-      target_episodes: 16
+      title: "The Build"
+      structure: "heist/ensemble — assembling a crew, constructing a response"
       status: "planned"
     - number: 3
-      title: "The Foundation World"
-      time_period: "2098-2118"
-      pov_character: "Jonah Hale"
-      target_episodes: 14
+      title: "The Weight of Real Things"
+      structure: "crisis — everything built is tested"
       status: "planned"
     - number: 4
-      title: "The Weight of Real Things"
-      time_period: "2120-2125"
-      pov_character: "Jonah Hale"
-      target_episodes: 12
+      title: "New Foundations"
+      structure: "aftermath — what gets built next"
       status: "planned"
 
-  # Narrative rules
   narrative:
     pov: "third_person_limited"
     tense: "past"
-    tone_register:
-      season_1: "documentary-warm, sensory, the voice of someone telling you something true"
-      season_2: "driven, kinetic, Elena's energy"
-      season_3: "observational, precise, Jonah learning to see"
-      season_4: "stripped-down reckoning, no rhetorical comfort"
+    protagonist: "Kirin Saleh"
+    tone: "immersive, poignant, wry humor, sense of wonder, grounded"
 
-  # Mission statement — the agent reviews this every episode
   mission: |
-    Tell a sprawling, realistic tale of how civilization changes when the
-    economy reorganizes around real assets and embodied skill. Explore the
-    ways human flourishing will take forms as unimaginable to us as jet
-    travel was to an Oregon Trail settler. Ground every speculation in
-    trends that exist today. Be honest about human nature — humans are
-    humans are humans. Technology changes the scenery, not the species.
-    Do not be naive about AI hype. Do not be myopic. Show the listener
-    a future that feels inevitable in retrospect.
+    A hero's journey through a world reshaped by AI, demographic collapse,
+    and an equity-based economy. The economy is the furniture. The story
+    is about a person who inherits something that pulls her across the
+    frontier into the parts of the world her civilization can't see.
 
-  # Audio configuration
+    Each episode is a new environment — immersive, deeply built, a place
+    the listener visits. The world-building IS the experience.
+
+    Do not judge. Show. Be realistic about human nature. Take the listener
+    somewhere they've never been.
+
   audio:
-    voice_role: "narrator"
-    model: "eleven_multilingual_v2"
+    voice_id: "ZthjuvLPty3kTMaNKVKb"
+    voice_name: "Jackson"
+    model: "eleven_v3"
     output_format: "mp3_44100_128"
     voice_settings:
-      stability: 0.50
-      similarity_boost: 0.75
-      style: 0.25
+      stability: 0.75
+      similarity_boost: 0.85
+      style: 0.15
       use_speaker_boost: true
+      speed: 0.93
 
-  # Publishing
   publishing:
     feed_title: "Ironline"
     episode_prefix: "The Future Economy"

@@ -1,7 +1,5 @@
-# Episode Log — The Future Economy
+# Episode Log — The Future Economy (v4)
 
-*Canonical record of published episodes. Updated after each publication.*
-
-| # | Title | Date Published | Word Count | Duration | Timeline | Summary |
-|---|-------|---------------|------------|----------|----------|---------|
-| 1 | The Okoye Commission | 2026-04-03 | 7,171 | ~40 min | Oct 2027 | Marcus finishes a perfect kitchen for absent clients, feels the hollow of unappreciated craft. Ray refers him to Nadia Okoye, a professor with a 22-page spec and no cash. He visits the brownstone, sees the bones and the garden, and agrees to build for 3% equity. |
+| # | Title | Date Published | Word Count | Duration | POV | Summary |
+|---|-------|---------------|------------|----------|-----|---------|
+| 1 | The Box | 2026-04-03 | 6,812 | ~38 min | Kirin Saleh | Sorting her dead grandmother's apartment, Kirin finds a hidden box containing a pre-Compact authentication key and a cryptic note. A materials analyst by trade, she can't identify the object. An archivist traces it to the Rootstock Protocol — a pre-Compact equity system. The key points to coordinates 400 miles into the empty zone. Then she finds hidden letters in an unreadable language and a photograph of a young Adaeze, radiant and unrecognizable, in front of a building that shouldn't exist. |
