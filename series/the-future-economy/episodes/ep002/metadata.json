@@ -1,0 +1,53 @@
+{
+  "episode": 2,
+  "season": 1,
+  "title": "What She Left Behind",
+  "series": "the-future-economy",
+  "timeline": "Late 2126, approximately one week after Episode 1",
+  "pov_character": "Kirin Saleh (primary), Tomas (cold open)",
+  "word_count": 7093,
+  "summary": "Kirin digs into her grandmother's vanished history. With Perun's help at the Archive, she finds the Rootstock Registry — forty-six pre-Compact communities registered in 2078, seven with no dissolution record, one at the coordinates her key points to. A sharp-eyed old woman named Vashti, who lived through the Sorting, confirms that Adaeze was a significant person in these communities and that the letters are written in a constructed language only the communities know. Hasse reveals that forty years ago, a Foundation Assessor named Davorin went east with an identical key and chose never to return — not a warning, he says, but evidence. Kirin says her goodbyes to colleagues and friends, packs what she needs, makes a final visit to her grandmother's empty apartment, and leaves Sable River before dawn on Saturday, walking east.",
+  "characters_appearing": [
+    "Kirin Saleh",
+    "Tomas",
+    "Perun",
+    "Hasse Lindgren",
+    "Brigid",
+    "Vashti",
+    "Roshan",
+    "Hira",
+    "Jessa",
+    "Preet",
+    "Calla",
+    "Dav"
+  ],
+  "new_characters_introduced": [
+    "Vashti",
+    "Brigid",
+    "Roshan",
+    "Hira",
+    "Jessa",
+    "Preet",
+    "Calla",
+    "Dav",
+    "Davorin (referenced only — Foundation Assessor who went east 40 years ago)"
+  ],
+  "locations": [
+    "Sable River — Guild district (Tomas's workshop)",
+    "Sable River — Territorial Archive",
+    "Sable River — CapEx Board",
+    "Sable River — Roshan's apartment (north district)",
+    "Sable River — south Commons center (old-timers' club)",
+    "Sable River — Vashti's apartment (east building)",
+    "Sable River — transit hub (departure)"
+  ],
+  "themes": [
+    "What we inherit from people we didn't fully know",
+    "The insularity of complete systems",
+    "The cost of disappearing into a smaller life",
+    "Saying goodbye to what you've built",
+    "Evidence versus warning"
+  ],
+  "continuity_notes": "Kirin has left Sable River. She is traveling east on the main highway, northeast route. First transit station at 100 miles. She carries: the authentication key, the letters (constructed community language — readable only by community members), the photograph, her portable assay kit, Tomas's route summary, water filter, thermal layer, solar cell, rations, and the cherry wood toggle Tomas made her. She has four weeks of leave from the CapEx Board. Davorin (Foundation Assessor, one of the best Hasse knew) went east with an identical key 40 years ago and chose to stay — this is evidence, not warning. Vashti (ex-Free Zone, 80s) knows Adaeze was significant in the communities. Brigid knows about the historical gap and has told Kirin to come back with something real. Episode 3 picks up with Kirin in the depopulated zone east of the frontier.",
+  "written_at": "2026-04-09"
+}
