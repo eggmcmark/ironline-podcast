@@ -1,0 +1,20 @@
+{
+  "audio_file": "C:\\Users\\mark\\CODE\\ironline-podcast\\audio\\the-future-economy\\2026-04-19_ep003.mp3",
+  "audio_filename": "2026-04-19_ep003.mp3",
+  "generated_at": "2026-04-19T10:02:28Z",
+  "voice_id": "ZthjuvLPty3kTMaNKVKb",
+  "model_id": "eleven_v3",
+  "characters_used": 40394,
+  "file_size_bytes": 45426331,
+  "series": "the-future-economy",
+  "episode": 3,
+  "chunks": 10,
+  "request_stitching": true,
+  "voice_settings": {
+    "stability": 0.75,
+    "similarity_boost": 0.85,
+    "style": 0.15,
+    "use_speaker_boost": true,
+    "speed": 0.93
+  }
+}
