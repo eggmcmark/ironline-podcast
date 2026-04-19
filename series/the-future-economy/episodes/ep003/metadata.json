@@ -1,0 +1,16 @@
+{
+  "episode": 3,
+  "season": 1,
+  "title": "The Frontier",
+  "series": "the-future-economy",
+  "timeline": "Spring 2126",
+  "pov_character": "Dez (cold open), Kirin Saleh (primary)",
+  "word_count": 7132,
+  "summary": "Kirin leaves Sable River on a freight transport to Kesmark, the last Compact settlement before the frontier, then crosses on foot into the depopulated zone. Over two days she walks through empty suburbs maintained by autonomous systems, shelters for a night in an abandoned house, and arrives at a scavenger settlement in a repurposed commercial strip. There she meets Dez — a former Free Zone logistics coordinator who has lived in the empty zone for eight years — and the small, practical community she's built with Seun, Tov, and Caramel. After Kirin shows Dez the authentication key and the coordinates four hundred miles east, Dez agrees to guide her: nobody goes east, and that's what makes it interesting. They leave at midday. Tov gives Kirin a name: Cleo, sixty miles east, who knows the country further than anyone.",
+  "characters_appearing": ["Kirin Saleh", "Dez", "Seun", "Tov", "Caramel", "Gren", "Silber"],
+  "new_characters_introduced": ["Dez", "Seun", "Tov", "Caramel", "Gren", "Silber", "Cleo (named only, not yet appearing)"],
+  "locations": ["Sable River eastern depot", "Kesmark (last Compact settlement)", "Depopulated zone highway", "Empty suburb (unnamed)", "Abandoned school", "Scavenger settlement in former commercial strip"],
+  "themes": ["paradigm blindness", "the world running on inertia", "solitude vs. isolation", "categories and what lives outside them", "being handed forward"],
+  "continuity_notes": "Dez is now Kirin's guide east. Tov has given Kirin the name Cleo with a passphrase: 'the small musician sends her regards.' The transit corridor (old rail line) is the navigation route for the first 200 miles. After 200 miles, Dez has no map. Three people have gone east from this settlement over the years and none have returned — Dez believes they chose to stay. The signal amplifier from Caramel extends the point-to-point comm range by 30%. Gren and Silber topped up Kirin's food supply. Kirin's note: 'everything here is running correctly. I am the only anomaly.'",
+  "written_at": "2026-04-16"
+}
