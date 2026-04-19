@@ -69,33 +69,66 @@ EP_PADDED=$(printf '%03d' "$NEXT_EP")
 
 WRITER_PROMPT="You are the episode writer agent for the Ironline Podcast Engine.
 
-Read and follow the instructions in: engine/prompts/write-episode.md
+Target series: $SERIES_SLUG
+Target episode: $NEXT_EP (padded: $EP_PADDED)
 
-Your target series is: $SERIES_SLUG
-Your target episode number is: $NEXT_EP
+CRITICAL OUTPUT CONSTRAINTS — READ FIRST:
 
-IMPORTANT: Before writing, read ALL of the following files:
-- series/$SERIES_SLUG/story-bible.md (creative constitution)
-- series/$SERIES_SLUG/outline.md (episode plan — find Episode $NEXT_EP)
-- series/$SERIES_SLUG/series-config.yaml (parameters, mission)
-- series/$SERIES_SLUG/world/*.md (all world docs)
-- series/$SERIES_SLUG/characters/*.md (all character files)
-- series/$SERIES_SLUG/continuity/arc-tracker.md (current state)
-- series/$SERIES_SLUG/continuity/episode-log.md (what's published)
-- ALL prior episode scripts in series/$SERIES_SLUG/episodes/*/script.md
+1. DO NOT compose the episode script as text in your chat responses. Prior runs
+   timed out because the agent emitted 7500+ words as a single assistant message.
+   Your chat output must be TERSE status updates only (one sentence per step).
+   The script lives in files, not in your messages.
 
-Then:
-1. Review the outline against the mission — update outline.md if needed
-2. Write Episode $NEXT_EP following the writing standards (7000-8500 words)
-3. Save script to series/$SERIES_SLUG/episodes/$EP_PADDED/script.md
-4. Save metadata to series/$SERIES_SLUG/episodes/$EP_PADDED/metadata.json
-5. Save writer notes to series/$SERIES_SLUG/episodes/$EP_PADDED/writer-notes.md
-6. Update continuity/arc-tracker.md with new character states and threads
-7. Update continuity/episode-log.md with the new entry
-8. Create or update character files for any new characters introduced
+2. Write the script in CHUNKS to the file. No single tool call should contain
+   more than ~2500 words of prose. A 7500-word episode must be built via at
+   least 3 sequential file operations:
+     - First: Write tool with section A (~2500 words). This creates the file.
+     - Then: Bash 'cat >> ...path... <<'\"'\"'IRONLINE_EOF'\"'\"'' heredoc append
+       with section B (~2500 words).
+     - Then: Bash heredoc append again with section C (~2500 words).
+     - Finally: Bash 'wc -w ...path...' to verify total length.
 
-Write the FULL episode. Do not truncate. Do not summarize. Do not ask for approval.
-Write autonomously. The complete prose, start to finish."
+3. Before writing, read ALL context files:
+   - engine/prompts/write-episode.md (writing standards — the constitution)
+   - series/$SERIES_SLUG/story-bible.md
+   - series/$SERIES_SLUG/outline.md (find Episode $NEXT_EP entry)
+   - series/$SERIES_SLUG/series-config.yaml
+   - series/$SERIES_SLUG/world/*.md
+   - series/$SERIES_SLUG/characters/*.md (if any)
+   - series/$SERIES_SLUG/continuity/arc-tracker.md
+   - series/$SERIES_SLUG/continuity/episode-log.md
+   - ALL prior episode scripts: series/$SERIES_SLUG/episodes/*/script.md
+
+PROCESS:
+
+Phase 1 — Read context (one terse status line).
+Phase 2 — Plan internally: title, logline, ensemble POV structure, scene list,
+          word target (7000-8500). Split the episode into 3 sections labeled
+          A, B, C, each ~2500 words. Do not narrate this plan in chat.
+Phase 3 — Write the script file in chunks as specified above. Output path:
+          series/$SERIES_SLUG/episodes/$EP_PADDED/script.md
+Phase 4 — Write metadata and notes:
+          series/$SERIES_SLUG/episodes/$EP_PADDED/metadata.json
+          series/$SERIES_SLUG/episodes/$EP_PADDED/writer-notes.md
+Phase 5 — Update continuity files:
+          series/$SERIES_SLUG/continuity/arc-tracker.md
+          series/$SERIES_SLUG/continuity/episode-log.md
+Phase 6 — If the outline has drifted from the mission, update outline.md.
+          Otherwise leave it alone.
+
+WRITING STANDARDS (apply in planning and drafting):
+- 7000-8500 words total, no less, no more.
+- Audio-first prose: written to be heard. Natural speech boundaries.
+- Third person limited, past tense.
+- Show, don't tell. No exposition dumps. No camp, no cheese.
+- ENSEMBLE CAST: multiple POVs, different locations, different social strata.
+- Each character speaks differently — check character descriptions in the
+  arc-tracker and any character files before writing dialogue.
+- The Compact equity economy is furniture in characters' lives, not the plot.
+- Continue the arc from the prior episodes. Respect continuity strictly.
+- Wry humor where it fits. End with resonance, not a cliffhanger.
+
+Execute autonomously. Keep chat output terse — the script lives in files."
 
 if [ "$MODE" = "--dry-run" ]; then
     echo "DRY RUN: Would invoke Claude with writer prompt" | tee -a "$LOG_FILE"
