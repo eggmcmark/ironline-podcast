@@ -1,0 +1,16 @@
+{
+  "episode": 4,
+  "season": 1,
+  "title": "Signal",
+  "series": "the-future-economy",
+  "timeline": "Spring 2126",
+  "pov_character": "Kirin Saleh (primary); Fen (cold open, unnamed); Tomas and Amira (interlude)",
+  "word_count": 7139,
+  "summary": "Kirin and Dez travel east from the settlement over four days, reaching Cleo at the highway rest stop — a woman who has been at the edge of the empty zone for eleven years and knows the key by reputation. Cleo gives them the route south from the transit corridor and reveals that someone has been living at the research campus ahead for two years, taking her supplies, and leaving a note: 'The key works.' That night, Kirin reads the Tamsat letters alone for the first time. In the morning they leave Cleo and push east, cross the transit corridor, and follow the service road south into older, denser forest. On the fourth afternoon they reach the campus — open gate, lamp burning in the communications building window. Inside, Kirin uses the key to open a locked cabinet of handwritten Rootstock registry backups (forty-three binders, hundreds of claims from across the region, 2071–2089). Behind the server room, the key opens a hidden sub-level containing a communications array that has been receiving encrypted data from across the Pacific — every forty minutes, daily, for at least two years. As Kirin and Dez process what they're looking at, a figure appears from an inner door. The episode ends on their first exchange.",
+  "characters_appearing": ["Kirin Saleh", "Dez", "Cleo", "Tomas", "Amira", "Fen (unnamed)"],
+  "new_characters_introduced": ["Cleo (full introduction)", "Fen (unnamed — figure in the doorway)"],
+  "locations": ["Highway rest stop (Cleo's base)", "Transit corridor (old rail line, north-south)", "Research campus (communications building, sub-level)"],
+  "themes": ["Relay and inheritance", "Paradigm blindness", "What the map cannot see", "Patience as a form of labor"],
+  "continuity_notes": "Fen is present at end but not named — Episode 5 is 'The Watcher,' Fen's full introduction. The sub-level contains: (1) a Rootstock receiver that has been tracking the key's passive signal (range ~100 miles); (2) a primary communications array receiving daily encrypted data packets from a source east of the Pacific; (3) two years of notebooks documenting the received data. The cabinet upstairs holds 43 binders of hand-transcribed Rootstock registry records for the northwest corridor, 2071–2089. Cleo is established at the rest stop as a network hub and contact — Kirin should send word back when she can. Tomas now knows the content of the Tamsat letters (Perun shared the translation). Kirin read the letters alone for the first time this episode. Dez's point-to-point comm range: not yet tested at the campus distance.",
+  "written_at": "2026-05-07"
+}
