@@ -50,11 +50,11 @@
 
 ### Perun
 - **Role**: Archivist at the Territorial Archive. Formerly a Rootstock records specialist in the western depopulated zone. Came into the Compact in 2093.
-- **Key detail**: Witness on Adaeze's first Rootstock claim registration in 2078. Reads Tamsat (rustily). Was taught it by a woman named Ife. Lived in the same city as Adaeze for 33 years without knowing she was there. Currently off-screen; has shared the full letter translation with Tomas and Amira.
+- **Key detail**: Witness on Adaeze's first Rootstock claim registration in 2078. Reads Tamsat (rustily). Was taught it by a woman named Ife. Lived in the same city as Adaeze for 33 years without knowing she was there. Currently translating the full letters off-screen.
 
 ### Tomas
 - **Role**: Kirin's best friend since they were 14. Guild carpenter at a collective in a converted tram barn on the south edge of the Guild district.
-- **Key detail**: Now has the full translation of the Tamsat letters. Knows the scope of what Kirin is walking into. Working late, worrying, waiting for comm range.
+- **Key detail**: Reads pre-Compact infrastructure records. Sources data cores from Perun. Gave Kirin a Guild canvas pack, a data core of infrastructure maps, and a warning about reservoirs. Worrying like wood drying in a kiln.
 
 ### Brigid Aelfgar
 - **Role**: Kirin's supervisor at the CapEx Board. Founder-class assessor. 23 years in role.
@@ -76,7 +76,7 @@
 
 ### Amira
 - **Role**: Wind-turbine maintenance specialist, Guild house on the east side. Rufus's partner. Dry, practical, articulate.
-- **Key detail**: Lived three years in the eastern reach of the Compact's cultivated zone. Knows scavenger communities firsthand. Has seen a Chinese-state substation that isn't supposed to exist. Gave Kirin a second point-to-point comm, solar cells, a water filter better than Guild stock. Her comm is now the Sable River end of a backchannel between Kirin and home. Waiting for Kirin to have range.
+- **Key detail**: Lived three years in the eastern reach of the Compact's cultivated zone. Knows scavenger communities firsthand. Has seen a Chinese-state substation that isn't supposed to exist. Gave Kirin a second point-to-point comm, solar cells, a water filter better than Guild stock. Her comm is now the Sable River end of a backchannel between Kirin and home.
 
 ### Mira
 - **Role**: Ghost-class night-shift aide at the Sable River Commons elder-care facility (west civic district). Fifties.
@@ -87,7 +87,7 @@
 - **Age**: Fifties
 - **Background**: Seven years as logistics coordinator for a mid-sized Free Zone freight operation. Went automated; she became a human anomaly-override, pressing one button a month. Came out to the empty zone to think and stayed.
 - **Speech patterns**: Direct. No wasted words. Technically precise about logistics, routes, distances. Dry humor — not jokes, but the shape of them. The reversal question ("what keeps you in Sable River?") is her default opening move with new arrivals.
-- **Key detail**: Has now reached the research campus sub-level with Kirin. Standing in an amber-lit room with a communications array she doesn't fully understand and a figure in a doorway.
+- **Key detail**: She is positioned "at the edge of two maps" and has been watching the territory both maps fail to describe for eight years. Nobody goes east. That's why she's going. Has now received Kirin's second point-to-point comm (Amira's) and a copy of the infrastructure data core.
 
 ### Seun *(new in Ep 3)*
 - **Role**: Former Compact structural engineer. 30 years in Guild certification. In the settlement eight years, arrived same week as Dez.
@@ -129,9 +129,9 @@
 ## Promises Made to Listener
 
 | Promise | Episode | Expected payoff |
-|---------|---------|------------------|
+|---------|---------|-----------------|
 | Kirin will go east into the empty zone | Ep 1 | Delivered Ep 3 |
-| The coordinates correspond to something real | Ep 1 | Partially delivered Ep 4 (campus, array, claim records); full payoff Ep 5 |
+| The coordinates correspond to something real | Ep 1 | Ep 4-5 |
 | Adaeze's pre-Compact identity | Ep 1 | Partially delivered Ep 2 (name: Okonkwo, settlement: Nnedi's plateau); rest Ep 9-10 |
 | The unreadable letters will be translated | Ep 1 | Partially delivered Ep 2; Kirin read letters 1 and 2 alone in Ep 4; letter 3 unread — Ep 5 or 6 |
 | The unknown child in the photograph | Ep 1 | TBD |
@@ -142,6 +142,7 @@
 | Brigid's "three of three returned" note | Ep 2 | Dramatic irony — sets up audience expectation that Kirin will return |
 | Three settlement members went east, none came back | Ep 3 | Ep 9-10 (probably) |
 | Cleo at the rest stop | Ep 3 | Delivered Ep 4 |
+| The coordinates correspond to something real | Ep 1 | Partially delivered Ep 4 (campus, array, claim records); full payoff Ep 5 |
 | The communications array / Pacific signal | Ep 4 | Ep 5 (Fen explains the network) |
 | Rootstock Cooperative Network (43 binders) | Ep 4 | Ep 9-10 (full scope) |
 | Fen's identity and background | Ep 4 | Ep 5 |
