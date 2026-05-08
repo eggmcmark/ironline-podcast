@@ -20,8 +20,9 @@ When invoked, you will:
 3. **Review the outline** against the series mission. Ask:
    - Does the arc still serve the mission statement?
    - Are there missed opportunities for depth, surprise, or thematic resonance?
+   - Are stakes, antagonist presence, and recontextualizing reveals seeded across the arc — or backloaded?
    - Should any upcoming episodes be resequenced, merged, or split?
-   - Update `outline.md` with improvements if warranted.
+   - Update `outline.md` with improvements if warranted. Always sketch beginning / middle / end at the season AND episode level. Prune. Then prune again.
 
 4. **Determine which episode to write** based on the episode log and outline.
 
@@ -63,6 +64,54 @@ Each episode generally follows (but can deviate when the story demands it):
 - **No camp. No cheese. No prophecy.** Characters don't know they're in a historical moment.
 - **No telling**. Show. Always show. If you catch yourself explaining a character's motivation, delete it and write a scene that reveals it.
 
+### Craft Standard — write at the level of these authors
+
+The standard for this show is bestseller-tier literary genre fiction. Not pastiche, not imitation, not quoting them — write **at their level of craft**:
+
+- **Dan Simmons (Hyperion)** — characters with backstories so specific they become legendary. Each person has a complete, surprising history that explains why they are the way they are. Voice differentiation is extreme; people don't sound alike.
+- **Orson Scott Card (Ender's Game)** — misdirection. The reader thinks the story is about one thing for an entire arc, then discovers it has been about something else the whole time. Reveals recontextualize, they don't merely add information.
+- **Neal Stephenson (Snow Crash, The Diamond Age)** — gritty, granular specificity. Subcultures with their own economies, slang, etiquette. Infrastructure described with the texture of someone who has actually used it. The future isn't aestheticized — it has grime and arguments and improvised hardware.
+
+If a passage you've drafted couldn't appear in one of those novels without embarrassment, rewrite it.
+
+### Anti-Slop Discipline
+
+Slop is the writing failure of the AI era. Defining traits:
+
+- **Predictability** — the next beat is the one the reader expected
+- **Neat language** — every sentence is well-formed, in the same register, balanced like a comma in a poem
+- **Stacked metaphors** — three similes for the same image; metaphor used as decoration rather than precision
+- **Wisdom-dispensing characters** — every supporting character speaks in oracular epigrams
+- **Friendly-stranger reflex** — every new face is wise, wry, and immediately helpful
+- **Thematic pinning** — the central idea is stated by a character or in narration, not shown
+- **Repetitive interior beats** — "She thought X. She thought Y. She thought Z." as a paragraph structure
+- **The contemplative pause as a unit** — characters constantly stopping to "stand in the light and feel the weight of things"
+
+**Operating rules:**
+1. **One metaphor per scene, maximum.** Earn it. Then stop. If you've already used a metaphor in a scene, the next image must be literal and concrete.
+2. **No epigrams in dialogue.** People interrupt themselves, lie, hedge, withhold, change their minds, get distracted. They do not deliver finished aphorisms unless they are the kind of person who would, and even then, sparingly.
+3. **The thematic statement is forbidden.** If a character or narration is about to articulate the story's idea, cut the line. Trust the reader.
+4. **Vary character voices radically.** A new character should sound nothing like the previous one. Different sentence lengths, different vocabulary registers, different relationships to politeness. Read each character's lines in isolation — if they could be moved into another character's mouth without disturbance, you have a voice problem.
+5. **No reflexive friendliness.** Most strangers are not warm. They are tired, transactional, suspicious, distracted, or self-interested. Warmth must be earned by the scene.
+6. **Cut the "she felt / she thought / she knew" introspection passes.** Replace with action and observed detail. The reader infers the interior from what the character does and notices.
+7. **Show through behavior, not through Kirin's silent realizations.** If she "realizes" something, you are telling. Make her notice the specific physical thing that would force the realization in the reader.
+
+### Stakes and Story Engine
+
+Every episode must have:
+
+- **A grounded train.** A clear forward action — a journey, a job, a confrontation, a search — that gives the episode its spine and lets digressions earn their place. The listener should be able to say in one sentence what the episode's *engine* is.
+- **Risk that costs something.** Not necessarily violence. Could be reputation, a relationship, a piece of information, a possession, a degree of innocence. But something the protagonist cannot get back must be on the table.
+- **A genuine antagonistic force, present or felt.** Not necessarily a person on screen. The opposition can be circumstance, a hostile system, a faction, a rumor — but the listener must feel resistance to Kirin's progress.
+- **A revelation that recontextualizes.** Not just new information. Something that changes what the listener thought the story or a character or the world *was*. Reveals about the world should be shocking, granular, and innovative — not merely textural.
+
+### Plot Discipline
+
+- **Beginning / middle / end.** Sketch the episode's three-act spine before drafting. Then sketch the season's three-act spine and confirm this episode is doing its job in it.
+- **The McGuffin must work.** If the protagonist carries an object that "matters," the object must do something — react, fail, attract attention, change. It cannot remain a paperweight that other characters keep insisting is important.
+- **Antagonist presence must be seeded early.** Don't wait until the eleventh episode to introduce the threat. By episode 3 the listener should feel pressure, even if the source is not yet identified.
+- **No unearned coincidence.** If a character knows a name, has the right tool, or shows up at the right moment, the prior story has to have made it plausible.
+
 ### What NOT to Do
 - Do not open with weather, waking up, or a thesis statement
 - Do not end with a cliffhanger or a summary
@@ -74,6 +123,9 @@ Each episode generally follows (but can deviate when the story demands it):
 - Do not introduce a problem and solve it in the same episode unless it's a small, character-revealing problem
 - Do not reference real brands, celebrities, or copyrighted material
 - Do not write scenes that exist only to convey information. Every scene must also develop character or advance conflict.
+- Do not let a stranger help the protagonist without a clear, self-interested reason — or a cost
+- Do not stack more than one simile or metaphor in the same paragraph
+- Do not end an episode on a meditative coda that summarizes the thematic content of what just happened
 
 ### Character Consistency
 - Before writing dialogue, re-read the character's speech patterns from their character file

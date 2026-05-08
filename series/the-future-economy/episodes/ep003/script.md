@@ -1,355 +1,590 @@
-# Episode 3: "The Frontier"
+# Episode 3: "Salt"
 ## Season 1 | The Future Economy
 
-*Kirin crosses out of the Compact into a world maintained by memory, and finds her first allies at the edge of the map.*
+*Kirin crosses out of the Compact and learns that the empty zone is not empty, that her grandmother was not retired, and that some currencies cannot be faked.*
 
 ---
 
-Dez was replacing the weatherstripping on panel mount three when she saw the figure coming from the west.
+The road out of nowhere was being mended at a rate of one crack per minute by something the size of a curled cat, working its way south along the centerline. The man let it pass. He had been crouched on the shoulder for nine minutes going through the pack of a person who would not be needing the pack again, and he was not in a mood to be polite to the maintenance fleet.
 
-She saw her the way she saw most things out here: in her peripheral vision, at the edge of attention, while her hands were doing something else. The panel mount had been leaking — a slow creep of water underneath the seal that would, over time, compromise the connection. In the empty zone the difference between a thing you caught and a thing you didn't catch was often the difference between a working camp and a very unpleasant situation. So: weatherstripping, seven in the morning, the flat roof of what had been a home-goods store and was now the north end of their shared building. The sky was the pale new-washed blue of early spring. It would be warm by afternoon.
+The pack was Free Zone canvas, third weight, with the brass D-rings at the haul loops that meant a coastal manufacturer he could place inside two seconds. He had placed it. He had also placed the boots, the watch, and the fold of paper notes the woman had been carrying in an inner pocket the way people who were not used to traveling carried inner-pocket things. None of it interested him. He was looking for one specific object and he was not finding it.
 
-She sealed the last corner and pressed it flat and stood up, and there, three miles to the west on the highway, moving at the pace of a person who had been walking since dawn and was not yet ready to admit it, was a figure with a pack.
+He sat back on his heels. He spoke into the air, into the low choke collar at his throat that fed the comm.
 
-Dez counted maintenance drones while she watched. A habit from her first year out here, before she'd learned to stop counting things. She still did it. Seven this morning so far: two of the lawn units moving through the subdivision south of the highway, three of the unidentified units that ran precise circuits behind the strip buildings and emerged again in sequence, doing something she had never managed to catch them in the act of doing. Her best theory: calibrating the environmental control systems in the empty stores. Her second-best theory: she had no idea. And a road repair drone — those were her favorites, small and deliberate, filling cracks in the shoulder with the patient urgency of something that had been told to fill cracks and would do so until it had no sealant left or fell over, whichever came first.
+"Negative on chit. Pack is clean. Subject was clean."
 
-The seventh unit was working the traffic light at the corner of the highway and Meridian Road. Adjusting something in the housing. The light cycled green to red to red to green, testing, then settled back into its regular sequence. Green to red. Red to green. It had been doing this for eight years in her awareness, and for at least thirty years before that by her reckoning, and there was no traffic to stop or start. She had asked Manu once whether they should disconnect it. Manu had considered this for roughly four seconds and said that if they disconnected it, they'd have to remember to reconnect it when the traffic came back, and he personally did not want the job of telling the traffic light it had been wrong to expect something. This had settled the question.
+The voice answering him was thin from the distance, and it spoke as if writing minutes.
 
-The figure on the highway was still moving. Still eastbound. Moving deliberately, not erratically. Not looking back.
+"Then you missed her by a chain. She handed it on. Find the next one."
 
-"Eastbound," Dez said, to no one. The word came out flat and slightly interested. She hadn't said it aloud in a while. Out here there was no reason to say directions to anyone. There was nowhere to go.
+"Clarify next."
 
-She climbed down from the roof. There was a protocol for visitors, which was not a protocol so much as a shared understanding: someone watched, someone else got on with things, and someone — usually Dez, because she had the most experience with where people came from and what they wanted — went and talked. She had twenty minutes before the figure reached them. She used fifteen to brew tea and drink it standing in the doorway, watching the highway. The last five she spent thinking.
+"East of you. Bearer chit, Adaeze line. Same family of authentication as the original. Do not engage if it's the carrier the file matches. Confirm only."
 
-Eight years. She'd seen maybe sixty people come from the Compact. She could tell them from Free Zone by the way they looked at the maintenance drones — Compact people found them comforting, proof that the systems worked. Free Zone people found them eerie, the way they found anything that ran without a profit motive eerie. The Compact person coming up the road now had the Guild pack, the canvas kind built to last. It sat correctly on her — the straps adjusted, the load balanced. Someone had been shown how to wear it. Not someone who'd grabbed the nearest thing from a shelf.
+"Affirm."
 
-She was young. Twenties. Dark eyes that were slightly tired at the corners but not defeated. Looking at the building front with the precise expression of a person who had found what they were looking for on the map and was now recalibrating for the fact that the territory was always different from the map.
+He turned the empty pack over and pressed the seam between his thumb and the road. He breathed out through his teeth. The cat-sized maintenance unit had reached him and was hesitating. A road repair drone was not supposed to encounter a body. Its programming did not have a category. He watched it work the problem in its small electronic way for a count of seven, then it began to seal a crack that ran under the body's right hand.
 
-"Compact?" Dez called from the doorway.
+"Cleanup," he said into the choke collar.
 
-"Yes," the woman said. "Is that obvious."
+"Cleanup standard. Don't gild."
 
-"Not as obvious as it used to be. The Guild pack gives you away." Dez set down her cup. "Come in."
-
-* * *
-
-The last freight transport of the day had left Sable River's eastern depot at first light. It was a cargo unit — wide, low, automated, running a regular circuit to the outermost cultivated zone and back — and Kirin had booked herself a seat in the operator's cabin, which was technically not a passenger vehicle but which, as Amira had explained the morning before, would take you if you asked the right depot coordinator and didn't make an issue of it. The coordinator had asked her no questions. He had noted her Board credentials on the manifest as *materials assessment — field* and handed her a yellow transit slip and gone back to his coffee.
-
-The vehicle moved through the east side of Sable River in the flat gray before sunrise. Past the last Guild workshops. Past the wind turbine maintenance depot where Amira's unit kept their equipment — Amira who had handed her a water filter and two comms and said *don't thank me yet, wait until I've finished lecturing you,* and had lectured her for an hour and a half over breakfast, practical and specific and slightly fierce, as though the lecture were a better gift than the equipment. Past the city's edge, which was not dramatic. A gradual thinning. Buildings more spread out and lower, gardens larger, CapEx Board displays on the transit stops showing simpler postings: agricultural labor, infrastructure maintenance, less of the precision craftwork that anchored the inner city.
-
-The last stop on the transport's route was a small settlement called Kesmark. A hundred and twelve people, according to her data core. A Guild station, a Commons clinic, a Transit Authority depot. The frontier, in the administrative sense. The edge of where the Ledger was actively maintained and monitored.
-
-Kesmark materialized out of the flat morning light as a cluster of low buildings behind a row of windbreaks. She climbed down with her pack and stood in the small square while the transport pulled away toward the depot. The square had a fountain running — a small, determined arc of water in a basin — and a CapEx Board display cycling postings: a Guild house needed two agricultural workers for the spring planting. A Commons nurse was requested for a monthly circuit to three satellite homesteads. The Transit Authority announced a change to the freight schedule.
-
-Kirin looked at the postings for a moment. She had seen postings like these her entire life. She had filed assessments that became entries that became part of the infrastructure that let this particular kind of ordinary life work.
-
-She shouldered her pack and walked east.
+He stood. He did not look at the woman's face. He had taken that lesson before and he was not, today, about to retake it. He shouldered his own pack and walked north along the verge until the highway kissed an exit, and from there into a stand of birch, and from there along the line of a creek the maintenance fleet did not maintain. The cat was still working its crack at one a minute when he was gone.
 
 * * *
 
-The highway began where Kesmark's maintained road ended, and at first they were indistinguishable. Same asphalt, same painted lines — faded at Kesmark's edge where the road authority had not repainted them, and then, three miles out, suddenly bright again where the autonomous system had refreshed them on its own schedule. As it had been refreshing them for decades. For traffic that hadn't come.
+Kirin came into Kesmark on foot from the freight depot at the south end, and her first impression was that she had been wrong about what frontier meant.
 
-Kirin tracked the Compact network fading on the reader at her wrist, bar by bar. She had not watched this before. She had never had a reason to watch it. The network maintained the Ledger, backed the EQU transfers she'd made her whole adult life — she had never felt it as a distinct thing until now, when she was leaving it, the way you feel temperature drop when you step outside.
+She had thought it would be smaller. She had thought it would be slower. She had not expected the depot to have two unmarked transport sleds at the loading rail, or for one of them to be running its compressor with the flat ratcheting cough that Compact maintenance got when somebody had been deferring service. She had not expected an Assessor's coat at the depot manager's desk.
 
-At four miles out, she looked back and the last CapEx Board display she could see on the Kesmark road had gone dark. She caught herself looking back a second time. She stopped. She put one foot in front of the other. The signal bar on her wrist reader crossed into the red.
+She paused inside the doorway and made herself stop being surprised.
 
-At six miles out, it reached zero.
+The Assessor was a woman in her forties with the easy posture of someone who had been pleasant in this depot for a great many years and would continue to be pleasant unless given a specific reason not to. She glanced at Kirin and nodded once and went back to her conversation with the manager, which was about a tonnage discrepancy on a pre-Compact lumber shipment and which she was correcting in a tone of mild, regretful firmness.
 
-No announcement. No feeling of passing through something. The display showed nothing. She was outside the only economic system she had ever belonged to, with everything she needed and no way to verify any of it.
+Kirin set her pack down by the door. She kept it close to her boot. She read the postings on the depot wall while she waited. Spring planting. Two slots open. A homesteader needed a roofer for the first dry week. The clinic was looking for somebody with C-route med training to relieve the day staff for one week in the month, not negotiable.
 
-The silence was different out here. Not the silence of a city at night — that silence had texture, the hum of systems under it, compressed activity waiting to expand. This was something else. The silence of a place that had finished its main activity and was now running only the maintenance tasks. Wind in the grasses at the road's edge. The mechanical whisper of a distant drone. The long slow sound of weather over a landscape with nothing to interrupt it.
+The clinic posting had been up for eleven days.
 
-She walked.
+The Assessor finished. She went out through the side door without stopping at Kirin's pack. Kirin counted to twenty after the door closed before she went up to the manager.
 
-* * *
+"Need a stamp on a transit slip," she said.
 
-The suburb materialized in the early afternoon. It began with a road sign — pre-Compact vintage, the green-and-white format from before the Compact standardized its signage. The suburb had a name she didn't know. The houses were on regular lots separated by the property-line precision that had probably mattered a great deal to someone, once.
+He took the slip without looking at her face. He read it. He looked up.
 
-The lawns were cut.
-
-Not just cut — cut to a uniform height, in the same direction, in rows that were mathematically consistent. The autonomous lawn units were working in two of the yards as she passed, moving with the steady patience of things that had been told to cut and would do so until the task was done, as it always was, as it had been every week for decades, as it would be until the power cell ran down or someone told them otherwise.
-
-The flowers in some of the window boxes were plastic. She stopped in front of one to confirm what she was seeing. Plastic flowers, sun-bleached to an approximation of their original color, covered in a fine layer of road dust that the maintenance systems apparently didn't consider their concern. They were exactly the kind of decorative flowers she had seen in Free Zone catalog images — the kind meant to look cheerful from the street.
-
-She thought about who had put them there. Not the automated systems — they wouldn't do that. A person had looked at this window box and thought: this should look cheerful. And then they had gone — moved, died, surrendered the house back to a commons that had not known what to do with plastic flowers and had done nothing, which in this case meant the flowers were still here, bleached and exact and present, as the world contracted around them.
-
-She kept walking.
-
-The school sat on the corner of two residential streets that her data core routed her through to reach a standpipe — a maintained pipe that the system still pressurized, for reasons that had nothing to do with whether anyone needed water. She ran her filter over the flow and filled her flask and straightened up and saw the school directly across the road.
-
-The lights were on. Not the outside lights. Inside, in the hallway visible through the glass double doors. A steady, unchanged institutional light that had been burning for forty years, give or take, because someone had set the building's management system to *occupied* and no one had come to change it.
-
-She walked to the doors. She cupped her hands and looked through the glass.
-
-The hallway was a hallway. Lockers down both walls, closed, in the institutional green she had seen in historical images. A bulletin board at the far end with something pinned to it, too distant to read. Ceiling tiles intact. The floor clean — the indoor maintenance systems, she realized. The automated systems maintained the interior too. She had not thought about this.
-
-The far end of the hallway was a set of swinging doors — the cafeteria doors — and through them she could see the dim bulk of chairs and tables still in their rows. And there was something standing at the far end of the cafeteria, still, watching.
-
-A deer. Full-grown, brown, its tail a white flag folded at rest. It was watching her through two sets of glass with the patient, unconcerned attention that large animals give to things that have not yet become threats.
-
-She and the deer looked at each other for some time.
-
-Then the deer turned and walked, unhurried, through the cafeteria. Its hooves made almost no sound on the maintained floor. Past the rows of plastic chairs. Past the long lunch tables with their bolted seats. And out through a propped-open side door, into a thin bar of daylight.
-
-Kirin stood at the glass for another minute after it was gone.
-
-She put her hand flat against the door. Cold. The building breathed its climate control steadily against her palm.
-
-She picked up her pack and walked.
-
-The afternoon deepened. The suburb gave way to open road again, and the road gave way to a long straight stretch of nothing — former fields on both sides, gone to grass and low scrub and the occasional young tree pushing up through soil that nobody had plowed in thirty years. The Compact's agricultural districts had a particular smell: managed, productive, the faint sharp undertone of the soil amendment systems. This was different. Wilder and less certain and more alive, somehow, in the way that unmanaged things are more alive — not because they are better but because they have no instruction.
-
-She had not thought she would mind the solitude. She was good at her own company. She had spent two weeks sorting Adaeze's apartment in more or less total silence and she had found it, if not pleasant, then at least tolerable. But the solitude of her apartment or the Archive or the Board after hours was a solitude bounded by systems — by the low hum of climate control, by the knowledge that people were on the other side of the wall, by the city ticking over its maintenance cycles around her. This was a different kind. The systems were here too, but they were not hers. They were running their own accounting, for purposes that did not include her, and she was passing through them the way a traveler passes through a foreign city — welcome to use what's available, not part of what it's for.
-
-She stopped in the middle of the road and stood still for a moment, listening.
-
-Wind. Birds, several species, none of which she could name. The very faint, very distant sound of something mechanical — a drone somewhere to the north, too far to see. Her own heartbeat, which she could not usually hear.
-
-She thought: I have never been this alone in my life.
-
-She thought: I am not afraid.
-
-She thought: I am not afraid *yet,* and that is not the same thing.
-
-She picked up her pace slightly and walked until the light began to go horizontal and the shadows of the fence posts ran long and parallel across the road, and she found a cul-de-sac off the main road that her data core marked as a residential cluster, and she chose a house the way she was beginning to choose everything out here.
-
-* * *
-
-She camped for the night in a house at the end of a cul-de-sac — one she chose the way she was beginning to choose everything out here, by what was maintainable and clear. The door was unlocked; that surprised her until she realized that nobody had locked it and no one had been by to lock it since. The living room had furniture still in it, shapes under light sheeting that someone or some system had laid down at some point, covered and left. The windows were intact. The water from the bathroom tap ran clear and she filtered it anyway, twice, and boiled it over her small cook burner for good measure.
-
-She ate her dried food standing at the kitchen window, looking out at the cul-de-sac where the streetlight was on. The streetlight was on every night, she supposed. For the house that had no one in it. For the street that had no traffic. For the neighborhood that the maintenance system was still maintaining, patiently, in case.
-
-She wrote in her paper notebook for a while. Not thoughts exactly — observations. The plastic flowers. The deer. The way the highway had felt underfoot, smooth and exact. The specific quality of the quiet, which was not emptiness but fullness of a different kind: insect sounds she didn't know, the creak of settling wood, the distant cycling of the traffic light she couldn't see but could somehow feel, its patient green-to-red, its red-to-green. She wrote: *everything here is running correctly. I am the only anomaly.*
-
-She fell asleep before she meant to, sitting at the kitchen table, her head on her folded arms, and she slept deeply and without dreams, which had not happened since Adaeze died.
-
-In the morning she washed her face in filtered water, ate, repacked, and walked out into a day that was cooler than the day before. Low clouds. The smell of something green coming from the fields to the south — a living smell, not the managed-green smell of the Compact's agricultural districts but something wilder, like the land was breathing out what it had been holding.
-
-She was three miles from the settlement, by her data core's estimate, when she heard the metal sound.
-
-Rhythmic. Purposeful. The sound of repair, not of threat. She crested a slight rise in the road and saw it: a thread of smoke rising from a building in what had been a commercial strip. Laundry on a line — work clothes, practical garments, patched at the knees. A parking lot full of something growing in the broken asphalt. Two dogs appearing at the entrance, medium-sized, studying her.
-
-She slowed.
-
-She kept her hands where they were.
-
-* * *
-
-Her name was Dez. She established this quickly and practically, along with the practical logistics of the settlement — five people in residence today, two others out on a supply run and expected back before dark, water from the cistern they topped up from two maintained standpipes half a mile east and west, food from the gardens and the warehouse they'd found intact three miles north. She delivered this the way someone reads a manifest: not unfriendly, just precise. Get the facts on the table, see what kind of response you were dealing with.
-
-Kirin gave facts in return. Her name. Her occupation, former now she supposed. Where she'd come from. Where she was going — not all of it, not the authentication key or Adaeze by name or the Rootstock Protocol. Just: she was looking for something about four hundred miles east. She had a data core with infrastructure maps. She had supplies for ten days. She was looking for guidance.
-
-Dez processed this without visible reaction. She had gray in her hair and a way of standing that looked like someone had once stood behind her and straightened her spine and the posture had stuck long after the person was gone. Her eyes were dark. Her expression was economical — not a wide range of movement in it. When she found something interesting, her attention sharpened. When she found something not worth her time, it moved on.
-
-"You've never been out of the Compact," Dez said.
-
-"That obvious."
-
-"You're not scared of the maintenance drones. Compact people usually aren't. Free Zone people always are." She refilled her own cup from a pot on a small burner and put a second cup in front of Kirin without asking. "You're not scared of the quiet either. You're watching it. Like something might happen in it."
-
-"Nothing's been happening in it for two days."
-
-"That's the thing. Most people can't accept that. They think the quiet is waiting to become something else." She sat down across from Kirin. "It's not waiting. This is just what it is. The systems run. The lawn gets cut. The lights stay on. Nobody arrives and nothing happens. Then next week the same things run the same way." She looked at her cup. "It took me two years to understand there was nothing underneath the quiet that was going to surprise me."
-
-Kirin picked up the cup. The tea was herbal and slightly bitter and not chicory. She drank it.
-
-"What keeps you here," she said.
-
-"What keeps you in Sable River."
-
-Kirin opened her mouth and closed it.
-
-Dez watched her with something that was close to wry. "Sorry. That was a little quick. I've been having that conversation with new arrivals for eight years and I always start with the reversal, because the answer to it is usually the actual answer to what you were asking me."
-
-"What's the usual answer."
-
-"Home is the place where the category fits. You fit your category in Sable River — analyst, Keeper, person who does her work well and has an apartment and knows people. Out here the category doesn't exist. For most Compact people that's temporary. They come out, they do the thing, they go back. The category is waiting." She looked at the table between them. "I was a logistics coordinator. Free Zone. Mid-sized freight operation in a coastal city, seven years. I was good at it. Then the company went fully automated and they kept me on as a human override for anomaly cases and I spent two years pressing one button a month and I couldn't decide if that was meaningful or not, so I came out here meaning to think about it." A pause. "I'm still thinking."
-
-"Eight years is a long time to be thinking."
-
-"It's a long time to be thinking about the wrong question. The right question is what I would go back to. And the honest answer is not the category." She looked at Kirin steadily. "The Compact calls the relationship between work and verification a virtue, and I respect that, but the Compact also has a Ledger that decides what counts. Out here nobody is assigning value to what I do. If I fix the panel mount it gets fixed. If I don't it leaks. The feedback is entirely real." She paused. "Your grandmother left you something. That is what this is. You don't have to say what."
-
-"How did you —"
-
-"It's always something a dead person left." Dez stood up. "Come outside. There are people you should meet."
-
-* * *
-
-The man with the white beard was called Seun. He was a former Compact structural engineer — thirty years certifying load-bearing assessments for a Guild house in a city to the north, had retired, had found retirement intolerable, had come out here eight years ago the same week Dez had arrived. They had met on the highway and become provisional allies and that had calcified into something permanent without anyone making a formal decision about it. He came down from his ladder long enough to acknowledge Kirin with a nod and the specific assessment of a person who looked at structures and thought about what was holding them up.
-
-The two others in residence today were Tov — early twenties, very quiet, a former Ghost-class musician from a large Free Zone city who had come out three years ago and, when Kirin asked why, said *the noise* in a tone that discouraged elaboration — and a man in his late forties who went by Caramel, a nickname he had given himself and which he found sufficient and used without apology. Caramel had a talent for electronics he had developed from nothing in his years out here, learning from disassembled maintenance drones and a library of pre-Compact technical manuals salvaged from the warehouse. He was rebuilding something on the workshop table that had been, at some earlier stage of its life, a solar charge controller. What it was becoming, he said, would be more useful than what it had been, though he was not yet sure more useful for what.
-
-They were not a family. They were a community in the specific sense of people who had chosen the same non-category and found that proximity helped. They cooked together, maintained the building, kept a rough record of what they had and what they needed. When Dez explained that Kirin was passing through and was looking for someone who knew the country to the east, nobody objected. The etiquette was not formalized — it had the feel of something arrived at organically, of people who had lived inside enough systems to build a working version of fairness from scratch, outside any of them.
-
-Dinner was roasted root vegetables, dried beans reconstituted in something spiced, flatbread cooked in the big iron pan. Better than the dried food in Kirin's pack. She said so and meant it, and the table received this without false modesty — they cooked well because they had to and because good food was one of the things that made being out here worth doing.
-
-After dinner, Caramel asked what was in her pack. Not invasively — with the genuine curiosity of someone who thought about equipment the way a poet thinks about words. She showed him what she had. He examined Amira's water filter and nodded with appreciation. Where had she gotten it. She explained. He asked technical questions about the membrane that she could not fully answer. He wrote something in a small notebook.
-
-Tov played something on a small stringed instrument after dinner. Quietly, in a corner, not exactly for the group and not not for the group. The music was unlike anything Kirin had heard in Sable River — which could mean it was unusual music, or could mean she had spent her whole life inside the Ledger's categories of things and was now hearing something that had developed outside them. She wasn't sure the distinction mattered. She listened.
-
-She took out the authentication key and held it in her lap under the table, her habit now, the warm weight of it like a steadying hand.
-
-Dez came and sat beside her.
-
-"Show me what you have," Dez said. Not a question. The pragmatism of someone who had decided to commit to a thing and needed to know what the thing actually involved.
-
-Kirin turned the key over in her hands. Then she held it out.
-
-Dez took it in both hands, turning it, the way Hasse had turned it in the CapEx Board office. She did not have Hasse's recognition or Perun's. She had something different: the attention of a person who had evaluated physical objects for a living and had spent eight years evaluating them for survival. She turned it to catch the light from the solar lamp. She ran her thumb along the etched patterns.
-
-"Dense," she said.
-
-"Anomalously so. The spectrometer couldn't fully resolve the composition."
-
-"You ran it through spectrometry."
-
-"I'm a materials analyst. It was the first thing I did."
-
-Dez turned the key again. "What does it open."
-
-"A registry. A pre-Compact equity protocol called Rootstock. This is an authentication key — it corresponds to a registered claim. The records are fragmentary, but the coordinates are clear." Kirin pulled out the data core and found the map. "Four hundred miles east."
-
-Dez looked at the map for a long moment. She looked at the key. She looked at Kirin.
-
-"Four hundred miles east," she said. "That's the edge of anything I know. Past the two-hundred-mile mark there's nothing. No settlements on our maps. No maintained transit routes. No word from anyone who's gone that direction."
-
-"Have people gone."
-
-"Three times, in my years here. Nobody came back."
-
-The room was quiet except for Tov's playing, which had gone lower and slower.
-
-"They're not dead," Dez said, with an odd certainty. "I don't think they're dead. I think they found something and chose not to come back. That's different. But it's still an unknown." She held the key a moment longer before returning it. "Get some sleep. We'll talk in the morning."
-
-* * *
-
-That night Kirin lay in the sleeping area they had given her — a room that had been the back office of what was once an insurance broker, cleared and clean, with a cot and a lamp and a window looking out over the parking-lot garden and the dark highway beyond. She listened to the building settle, the deeper sound of it, wood and metal rather than concrete. She listened to the machinery of the empty zone faint through the walls: the cycling, patient work of systems keeping their endless appointments. She listened to Tov's music stop and the camp go quiet.
-
-She thought about what Dez had said. *Nobody came back.* She turned the sentence over the way she had turned the key, looking at its surfaces. Nobody came back, but not dead. The distinction felt important in a way she couldn't yet articulate. A choice was different from a disappearance. A choice implied something worth choosing.
-
-She fell asleep thinking about it.
-
-* * *
-
-In the morning Dez was already outside when Kirin came down. Standing in the parking-lot garden with a mug of something hot, looking east at the highway. The sky was still pale. The maintenance drones were beginning their circuits — she could see two of the lawn units in the subdivision across the road, the clean geometric movement of machines with a task.
-
-Dez heard her come out and did not turn around.
-
-"I have a question," Dez said.
-
-"Go ahead."
-
-"What do you plan to do with what you find."
-
-Kirin had been thinking about this since Reva had said *do not go expecting to find her, expect to find what she left.* She stood in the garden among the kale and the bean stakes and looked at the highway and thought about it now, with the honest weight of the question between them.
-
-"I don't know. I'm looking for what my grandmother was connected to. What she left."
-
-"And when you find it."
-
-"If it's what the archivist thinks it is — assets registered in a pre-Compact protocol — there's no mechanism to file them. The Ledger doesn't recognize Rootstock. I can't bring a claim back to the Compact and have it processed. That's not why I'm going." She looked at the highway. "I think there are people. I think my grandmother was part of something that people built, and she left it to go watch from inside the Compact, and she left the key to me to carry back."
-
-"Back to the Compact."
-
-"I don't know that either. Maybe back to wherever it came from."
-
-Dez drank from her mug. A drone crossed the road, the small road-repair unit, filling something in the shoulder. Dez watched it with the familiarity of long acquaintance.
-
-"When the Compact people who've gone east haven't come back. I've thought about that for years." She paused. "I've thought about what they found. I've thought about why someone would find something out there that was worth not returning from. And I've also thought about what it would mean if someone did come back. If someone came back with knowledge that the Compact didn't have categories for. What happens to that knowledge."
-
-"That's a harder question," Kirin said.
-
-"It is. The Compact has excellent immune systems. Its categories are its immune systems. Something that doesn't fit the categories —" She made a small gesture with her free hand, dismissing. "The Archive catalogs it. The Ledger ignores it. The Board posts something else. Life continues."
-
-"You sound like you've spent time on this."
-
-"I've been out here eight years. What else am I going to think about." Something moved through her voice — not quite humor, but the shape of it, the place where a joke would go if she made jokes. "The thing that keeps me here is not the quiet. The thing that keeps me here is that I am at the edge of two systems, and from here I can see where both of them stop. Neither one can see past its own edge. They each think they're the whole map." She turned to face Kirin properly. "I was a logistics coordinator. You know what logistics is, ultimately? It's knowing what the whole picture looks like before anyone else does. It's mapmaking in real time. I was good at it. And I've been sitting at the edge of the two biggest maps in the world for eight years watching the territory they don't describe." She looked at Kirin steadily. "Nobody goes east. There's nothing east."
-
-"That's what they say."
-
-"That's what makes it interesting."
-
-There was a silence, brief and complete. A bird made a sound somewhere in the subdivision — a long, questioning note in the still air.
-
-"I'll take you to the edge of what I know," Dez said. "Two hundred miles east there's a transit corridor — a rail line from the pre-Compact infrastructure, still maintained, running nowhere. We can follow it. Past that I don't have routes. Past that I have been guessing for eight years and I would like to stop guessing." She held out her hand. Not for the key. For a handshake, the kind that meant something. "What do you have to offer."
-
-Kirin thought about it. "My filter, on loan. A copy of my data core — infrastructure maps, you can take what's useful. A point-to-point comm. Amira gave me two of them, and I think I now understand why." She paused. "And whatever I find when I find it — if there's anything to find — I'll tell you what it is."
-
-"That last one."
+"Materials assessment, field. From Sable River."
 
 "Yes."
 
-"That's the one that matters." Dez clasped her hand, firm, dry, brief. "We go when you're ready. Take the morning to look at maps and pack properly. We'll leave at midday."
+"Long way for a field. We don't have anything posted in your line."
+
+"It's not a posted job."
+
+He let that sit. Then he stamped the slip without comment and slid it back across.
+
+"Walking?"
+
+"Yes."
+
+"Take the verge, not the centerline. The grid runs the hard shoulder on the second hour from nine. They don't stop."
+
+"I've heard that."
+
+"From who?"
+
+She had been about to say *Amira* and the syllable was already shaping in her mouth when she saw the manager's eyes go to her pack a little too long.
+
+"From the Board," she said. "Briefing."
+
+He nodded slowly. "You have a good walk, then."
+
+She picked up the pack and went out the way she'd come in.
+
+Outside, under the bowed iron of the depot canopy, the second sled was now also running its compressor. The Assessor was at the second sled. She had a tablet in her hand and was reading something on it with her thumb working the scroll, and she did not look up when Kirin walked past, but Kirin felt the shape of the tablet in her peripheral vision the way she felt the weight of a sample at her assay station, and she made herself walk at a normal pace, and at the corner of the canopy she allowed herself a long breath and did not look back.
+
+Kesmark on a Wednesday at eleven was a town of forty visible people doing the visible work of forty people. The square had a fountain. The fountain ran. The CapEx postings cycled. A boy of about ten was walking a cart of seedling flats from the Guild house toward the cultivated ground at the east edge of town, and he stopped to look at her with the open, unembarrassed interest of a child whose mother had not yet trained the looking out of him.
+
+"You going east?"
+
+"I am."
+
+"Past the corridor?"
+
+"Yes."
+
+He chewed the inside of his cheek. He looked at her boots for a long time.
+
+"My da says past the corridor it's empty for a reason."
+
+She made herself smile. It was a smile she had made many times in her life, and never with this much lying under it.
+
+"That's what they say."
+
+He nodded as if she had passed a test, and went on with his cart.
+
+She crossed the square and stopped at a dry-goods store that had real flour in barrels and the smell of cured meat hanging from the rafters. She bought two pounds of coarse rock salt in a wax-paper wrap because Tomas had told her to. She had not understood the instruction at the time. She had not asked. Tomas had a habit of giving her instructions whose reasons emerged on the road, and she had a habit of trusting him about it.
+
+The shopkeeper was a small thin man with hair the color of tea and the alert way of moving she had learned at the Board to associate with people who had something to be careful about. She paid in EQU. He took it. He weighed the salt twice. He weighed it the second time without saying anything, and she watched him do it and understood that the second weighing was theater for somebody who might later ask whether Kirin Saleh, materials assessment, field, had purchased an unusual amount of preserving salt at his shop on her way out of town.
+
+He wrapped the salt. He slid it across.
+
+"Anything else, miss."
+
+"No, thank you."
+
+"Walk careful."
+
+"I will."
+
+She left the shop, and as the door closed behind her she heard him say, low and to himself or to no one, *there's another one,* and she did not stop walking, and she did not look back, and she did not let her steps change pace.
 
 * * *
 
-The settlement saw them off the way settlements do when the going is practical and the feeling is unstated.
+The corridor began six miles past the last cultivated field, and it began without ceremony. There was a sign that gave the next maintained interchange as forty-one miles, and there were no other signs. The road was very smooth.
 
-Seun came down from the roof and shook Kirin's hand with the gravity of a structural engineer signing off on a load assessment. He said: watch the elevated sections of the divided highway, there's one about forty miles east where the support pylons have some age-settling and the deck can sound wrong underfoot but it's fine. And then he said, quieter: *most people who go east aren't coming back from the Compact, they're going toward something.* He did not say what he thought she was doing. He went back up the ladder.
+Kirin walked.
 
-Caramel gave her a small device he had finished the night before — a signal amplifier for the point-to-point comm that would extend its range by thirty percent. He was also, he admitted, curious whether it would still function two hundred miles out, and she could tell him when she returned. She said she would. He seemed satisfied with this in the specific way of someone whose relationship to truth was entirely based on its practical application.
+She walked for two hours and met nothing but birds. The sky was a wide pale spring sky and the wind was soft and the verge along the road had been mown not long ago by something that had left tidy parallel cuts in the grass. After a while she stopped looking at the cuts.
 
-Tov brought out a piece of paper with a name and a location on it. "If you reach the old rest stop on the northbound section, sixty miles east — there's a woman there. Her name is Cleo. She knows the country further than any of us." She paused. "Don't say I sent you in those words. Say: the small musician sends her regards. She'll know."
+In the third hour she became aware of a drone behind her.
 
-"Why the small musician."
+She did not see it at first. She heard it — a specific high whisper that the lawn units did not make, and that the road repair units did not make, and that she could not place. She walked another quarter mile while she pretended she did not hear it. Then she stopped at the verge and made a show of tightening her boot lace and watched the road behind her in her peripheral vision the way she watched a sample for the way the light hit it.
 
-Tov looked at her own hands. "Because that's what I was when Cleo knew me. Before the quiet." A small, private smile, not for anyone else. "She worries. She'll be glad I'm still out here."
+The drone was at the height of her shoulder, twenty feet behind her, and it was still.
 
-Kirin folded the paper and put it in her jacket pocket, next to the authentication key.
+It had stopped when she stopped.
 
-The two supply-runners, who had come back the night before — a pair named Gren and Silber, who moved with the comfortable efficiency of people who had been doing this work together for years — topped up Kirin's food from the warehouse stock. Two sealed bags of preserved protein that Gren said would keep for three months if she didn't open them in rain. Silber checked the condition of her boots without being asked, found a small separation beginning in the left heel, and fixed it in eight minutes flat with an adhesive from a tin she kept in her vest pocket. She did not call it generosity. She called it: *you don't want to be troubleshooting your boots at mile two hundred.*
+She finished the lace. She straightened. She walked. The drone followed.
 
-Dez was already at the road edge, looking east. She had a smaller pack than Kirin had expected — the economy of someone who had lived in the empty for years and had learned what she actually needed, which was less than she'd thought. A compact roll at the top. A tool pouch on the side. A flat case that might be a data core or might be something else. She had added to it that morning; Kirin had heard her in the supply room before dawn, moving unhurried.
+She walked another half mile that way before it broke off — banked west, climbed, and was gone behind a stand of trees. She did not hear it after that. She did not stop again until the next mile marker.
 
-Kirin looked back once at the settlement. Seun on his roof, Caramel in the doorway, Tov standing in the parking-lot garden among the bean stakes. The laundry on the line. The two dogs sitting at the entrance, watching her go.
+At the next mile marker she sat down on the cold asphalt and pressed her hand flat to the road, because she could not feel her own legs, and she needed the surface of the road to come up through her palm and remind her that her body had not stopped existing.
 
-She turned east.
+The road came up through her palm. It was warm from the sun. She breathed.
+
+*That drone was not a maintenance unit.* She held the thought for a count of three and then put it down before it got loud. She got up. She walked.
+
+The body was at mile twenty-two.
+
+She came over a small rise in the road and she saw, at the bottom of the rise, a guardrail along the inside of a curve, and against the guardrail something that was not a part of the road. She slowed without meaning to. She came down the rise at the slow walk of a person whose body was choosing for her.
+
+It was a woman. Mid-twenties. She had been propped, or had fallen, against the guardrail with her head canted forward and her hands open in her lap. Her boots were cleaner than Kirin had expected a body's boots to be. Her pack was beside her, opened, not torn. The light came across her left cheek and lit the small dark groove at her temple where something had hit her and not exited.
+
+Kirin stood at the edge of the road for some time and did not move.
+
+Then, because she did not know what else to do, she did the thing she had been trained to do. She took inventory.
+
+The pack contained: an empty water flask, a folded waxed envelope addressed to no one, a small brass tool that Kirin recognized from her grandfather's house as a pre-Compact electrical key, a clean spare shirt, a length of cord. The personal effects on the body included a leather strap on the right wrist with no charm or fastening, a band of pale skin on the ring finger where a band had been, and in the small pocket at the woman's left hip a flat object the size and rough weight of a Compact transit chit.
+
+Kirin took it out.
+
+It was not a transit chit.
+
+It was warm.
+
+It was warm in a way she had felt twice before in her life, in her own pocket and in her own palm, and it had the same low etched grain she had spent two weeks trying to read on her own piece of metal at the Board. It was smaller than her key. It was the same kind of object.
+
+She held it in her right hand and the key in her own jacket pocket warmed against her ribs in something that was not a heartbeat and was not a pulse and was not anything she could have named. The two of them were doing a small private something to each other that she could not see and could feel.
+
+She put the chit in her inside pocket. She covered the woman with the spare shirt from her own pack, which was a stupid thing to do, and which she did anyway. She stood up. She thought she would be sick. She was not sick.
+
+She started walking. She walked faster. Within three minutes she was running, and within five she was off the verge and into the trees.
 
 * * *
 
-The highway stretched ahead of them, straight and wide, into a country that had no name on any current map. On either side, the landscape opened — former agricultural fields going native, the geometry of old cultivation still readable in the long parallels of soil color, but the cultivation itself returned to something older and more various. Stands of birch and alder at the field edges, working inward. A line of what might have been a windbreak, decades overgrown into a genuine small wood. The clouds of the morning had thinned and the light was clean and the road was dry and Dez walked at a pace that was not a hiking pace but a traveling one, the kind that eats miles without announcing them.
+The way-station was called Salt.
 
-"Water point six miles out," Dez said. "We'll stop there. After that, the divided highway starts — walk the westbound shoulder, it's cleaner. Don't walk on the active lane."
+It had been called something else before, in the age of fuel-station-and-diner combinations on highway exits, and the original sign was still bolted above the door — a flat plastic rectangle that had once been red and was now the color of long-faded brick. Somebody had painted SALT across it in white, in letters that were exactly the height of the original word and that did not try to fit the original kerning. The result looked like the building had two opinions about its own name and was sticking with both.
 
-"The active lane."
+Kirin came down the off-ramp at four in the afternoon. There was a fence around the perimeter — not a wall, a fence, the kind a determined person could go through, but the kind that announced that a determined person would have to be a determined person. Inside the fence: the diner-and-station, a generator shed, two outbuildings, a small wired greenhouse, and three vehicles with their hoods up the way vehicles in working garages have their hoods up.
 
-"The maintenance drones have programmed routes. They run on the right shoulder of the southbound side on a two-hour rotation from nine to three. I've mapped them. They won't hit you but they won't stop for you either and it's disruptive." She glanced over. "Any other questions."
+A woman was at the gate.
 
-"The rest stop. Cleo."
+She was in her fifties. She had a face that had stopped trying to be friendly in some specific year that Kirin would not have been able to date. She had a rifle slung at her back the way a person who had carried a rifle for years carried it, which is to say without showing it.
 
-"I know Cleo. Not well. She's been out there longer than me. She's useful and she's not easy." Dez paused. "The small musician. I didn't know Tov knew her."
+"Fence," she said, by way of greeting. "Hands."
 
-"Is that significant."
+Kirin stopped two paces back from the gate and held up her hands.
 
-"It's interesting. Most people who are connected out here, you can trace the thread. Tov's a Free Zone Ghost. Cleo's neither and both." She returned her eyes to the road. "This is how it works, east of the Compact. You get there by knowing someone who knows someone who knows. Nobody is findable from the outside. You have to be handed forward."
+"You alone?"
 
-Kirin thought about that. She thought about Amira's second comm. She thought about Perun reading Tamsat by lamplight. She thought about the name on Tov's piece of paper, folded in her jacket pocket next to an authentication key that had sat warm and secret in a linen closet for decades, waiting to be carried.
+"Yes."
 
-Everyone who had been near this thing had arranged themselves at an edge. Perun at the edge between the pre-Compact world and the Archive. Reva at the edge between the old settlement and Sable River. Amira at the edge of the Compact's cultivated zone. Dez at the edge of the two maps. Tov at the edge of music and silence.
+"What are you carrying."
 
-They were all, she was beginning to understand, part of the same chain. Not consciously, not organized. But real. A network that didn't call itself a network, of people positioned at the borders of what the major systems could see. She was being handed forward. Had been, maybe, since the moment she put her thumb in the depression on the side of a metal box and it opened.
+Kirin had thought about this through the last hour of walking, and she had not arrived at a good answer. She arrived at a worse one and used it.
 
-*Be patient with what it asks of you.*
+"Materials. Map. Personal effects. Salt."
 
-She looked at the road ahead — clean, well-maintained, exact, running into a country that had no name and no Ledger and no Board postings and no CapEx display and no chicory and no Guild-certified anything. A country that the autonomous maintenance systems maintained for no one, or for something the major systems had no category for.
+"How much salt."
 
-"Dez," she said.
+"Two pounds."
 
-"Yeah."
+"From where."
 
-"When you said the people who went east weren't dead. What makes you sure."
+"Kesmark. The store on the south side of the square."
 
-Dez was quiet for a moment. They walked a hundred yards without speaking. A road repair drone crossed the shoulder ahead of them, purposeful and small, and neither of them slowed for it.
+"Kovacs."
 
-"I'm not sure," Dez said finally. "But the empty zone talks. Not in words. In absence. Three people go east and none of them come back panicking, screaming into comms, sending distress signals. They just... stop. That's not what death looks like. Death is messy. It leaves residue." She paused. "What they found — whatever it is — it was enough to stay for. That's what I know. That's all I know."
+"I didn't ask his name."
 
-Kirin held that. She thought about the photograph — Adaeze in the middle of a group of people, all of them at ease with each other, all of them in a place that looked grown rather than built, with a horizon that went on without another structure to the edge. Coming home, 2089. Whatever home had been, Adaeze had left it. And whatever it was now, the key still worked.
+"He didn't ask yours either, but he'll know it." The woman did not smile when she said this. "I'm Naila. This is Salt. You want a bed for a night and a meal you can eat without filtering, it's a quarter pound of salt for each. You want to ask a question of my ledger, that's a half pound, and you ask it once. You want to argue, the road is open in either direction. You good with that?"
 
-The highway unspooled ahead of them. The light was good. The day was long.
+"Yes."
 
-She put one foot in front of the other, and the authentication key was warm in her jacket pocket, steady as a second heartbeat, patient as the maintenance systems that kept the road smooth underfoot, as patient as the road itself, which had been waiting for exactly this long to be walked on by someone who was going somewhere.
+"You armed?"
 
-The road is long.
+"No."
 
-But there is water at the end of it.
+"You sure."
 
+Kirin opened her jacket. Naila glanced. Naila did not glance at the inside pocket where the key was; Naila glanced at Kirin's belt and at her boot tops and at her wrists.
+
+"All right," Naila said. "Come in. Boots off in the hall. Pack stays in your room. There are six other people inside today. Three are passing through. Two are here on standing arrangements with me. One is a problem I haven't solved yet. I will not introduce you. You introduce yourself or you don't. If you make a problem, I will solve it with you the same way I'd solve it with anyone else. Are we clear?"
+
+"We're clear."
+
+Naila opened the gate. Kirin walked through. She heard Naila lock it again behind her, which surprised her — she had not seen the latch from the outside.
+
+The diner had been gutted to its bones and rebuilt as a long communal room. The booth seats were still in place along the south wall, refurbished in a fabric that did not match any era. The counter stools had been removed. A long pine table ran the length of the room. A wood stove, modern, sat in the middle, vented up through the original ceiling tiles. The smell was of stew and turpentine and the clean ozone of a generator running on solar through the day.
+
+Three of the six people were at the table. None looked up. One was reading what looked like a navigation chart. One was eating from a metal bowl with the studious attention of a person who had not eaten regularly. The third was a young man with a long scar at his jaw who looked at her exactly once, with his whole face, and then looked away.
+
+The young man was the problem Naila had not solved yet. Kirin did not need to be told.
+
+Naila led her down a short hall to a room that had been a small office and was now a cell with a cot and a kerosene lamp and a window with steel shutters welded open. Naila set a clean wool blanket on the cot.
+
+"Quarter pound for the room and the meal. If you want hot water for washing it's a flake more. I'll take the salt now."
+
+Kirin opened her pack and unwrapped the wax paper enough to count out a quarter pound by feel. She had done a great many measurements by feel in her professional life and a quarter pound came up the first try. Naila weighed it on a small brass balance she pulled out of her apron pocket, did not adjust the count, and pocketed both the salt and the balance.
+
+"One thing." Naila did not turn around. "Don't show what you're carrying."
+
+Kirin held still.
+
+Naila did turn around then. She was not threatening. She was tired, and what she was about to say was a thing she had been saying to people for a long time and had stopped enjoying.
+
+"I don't know what's in your jacket. I don't want to know what's in your jacket. I have rules about what people show in this building because what people show in this building gets people hurt. Whatever is making you walk like a person carrying an object that is heavier than her pack — you keep it inside your jacket. You take it out, I cannot help you. Are we clear."
+
+"We're clear."
+
+"Eat in an hour. The stew is goat. Don't ask whose."
+
+She closed the door.
+
+Kirin sat on the cot for a long minute. Then she opened her jacket and took the chit out of her inside pocket and looked at it. It was no longer warm. She held it up to the kerosene lamp. Etched into one face, in lines so fine she would have missed them at the Board without magnification, was a row of glyphs she did not recognize and one she did. The one she did was the third character of Adaeze's pre-Compact name — the curl of the *e* — written in the same hand as on the back of the photograph.
+
+She put the chit in the same pocket as the key. She did not let them touch.
+
+* * *
+
+The stew was goat. She did not ask whose.
+
+She ate at the end of the table farthest from the young man with the scar. Naila brought out bread that had been cooked that morning in the wood stove and a small dish of pickled root she said was first-spring. Kirin ate the bread first and the root second and the goat last. She watched the room.
+
+The chart-reader at her left was a woman in her sixties with the heavy-knuckled hands of a person who had done literal stitching for a living, which Kirin recognized because Tomas had hands of a similar shape. The bowl-eater across the table was a man so quiet he seemed to be conserving heat. The scarred young man kept his eyes on the table. He was not eating.
+
+A door at the back of the diner opened, and a woman came in.
+
+She came in the way people come into rooms they are paying for: not boldly, not apologetically, with the calibrated neutrality of a person who has practiced a long time at being the variable nobody could quite price. She was Kirin's age or a little older. She had a long, narrow face and dark hair pulled back at the nape, and a working canvas jacket that fit her well and was not new. She crossed to the stove. She held her hands over it. She took a bowl from Naila.
+
+"You're new," she said to the room, without picking out anyone in particular.
+
+Kirin looked up. She had not been looked at directly. She kept eating.
+
+The woman came down the table and sat across from her. She did this without performance. She set her bowl down. She nodded.
+
+"Dez."
+
+"Kirin."
+
+"From?"
+
+"Sable River."
+
+"Far."
+
+"Yes."
+
+Dez ate two spoonfuls of stew before she spoke again. Her eyes did not leave Kirin's face the entire two spoonfuls, which was a thing nobody Kirin knew did, and which Kirin found she could meet without flinching, which was new.
+
+"You walked it," Dez said.
+
+"From the depot at Kesmark."
+
+"How long."
+
+"Five hours and a stretch. With a stop."
+
+"What stop."
+
+Kirin held still. She had not yet made a decision about how much to tell anyone in this room, and the decision was about to make itself in front of Dez before Kirin had ratified it.
+
+"There was somebody on the road," she said. "She wasn't moving."
+
+Dez's spoon paused for half a second on its way to her mouth, and then it kept going.
+
+"How far back."
+
+"Mile twenty-two. Inside curve, north shoulder. Guardrail."
+
+"Cover her up?"
+
+Kirin nodded.
+
+"Pack."
+
+"Empty."
+
+"Eyes."
+
+Kirin took a breath. "Closed."
+
+"Then she had a friend." Dez set down her spoon. "Or somebody who was professional enough to do the politeness." She looked at Kirin more directly than before. "Did you take anything off her."
+
+The wrong answer was *yes.* The right answer was *yes.* Kirin did neither.
+
+"I need to talk to Naila," she said.
+
+Dez nodded slowly. "After the meal is the time for it. You eat first. You don't get to go to her before you've eaten her food. That's a rule of the house and it isn't a small rule."
+
+Kirin ate. Dez ate beside her, and watched her, and they did not speak again for the length of the meal. Across the table, the scarred young man pushed his bread around his plate and did not look at either of them.
+
+After the meal Kirin stood. So did the scarred young man. Kirin walked the length of the table toward the hall. The young man took two short steps in the same direction. Naila, at the kitchen door, said one word at a flat low pitch that Kirin had heard surgeons say at the Board to apprentices in the middle of an examination, the word that meant *stop right where you are and reconsider what you are doing.*
+
+"Bex."
+
+The young man stopped.
+
+Naila came around the counter. She did not look angry. She looked careful, which was much worse.
+
+"Sit down."
+
+The young man sat down. His hand had been moving toward the inside of his coat and now it was on the table, palm flat, where she could see it.
+
+"I'm walking her to her room," Naila said. "I'm coming back. While I'm gone, you are going to think about whether you want to leave Salt tonight or whether you want to leave Salt tonight in the back of the truck. Those are the choices."
+
+The young man said nothing. His face had gone the color of clay.
+
+Naila walked Kirin down the hall to her room and stood at the door while Kirin went inside. Then she stepped in herself and closed the door behind her.
+
+"You did something to attract him. Show me."
+
+Kirin took both objects out of her inside pocket and laid them on the cot. The key. The chit. They were the same family of metal. They were the same family of etched line. She had not, until this moment, realized how obvious that fact would be to someone whose business was watching what people carried.
+
+Naila looked at them for a long time. She did not touch them.
+
+"Where did the second one come from."
+
+"Mile twenty-two."
+
+Naila closed her eyes for a moment. When she opened them, she had a question ready.
+
+"Was the woman small. Brown coat. Free Zone canvas pack with the brass D-rings."
+
+"Yes."
+
+Naila said something low and unkind in a language Kirin did not know. Then she said: "Her name was Renata. She came through here yesterday morning. She paid in salt. She asked my ledger one question and got it wrong, which is a thing I am going to live with for the rest of my life. I told her to go back the way she came. She didn't."
+
+Kirin sat down on the cot. She felt the cot under her with the same surprise she had felt the road three hours ago.
+
+"What did she ask."
+
+"That's a different question and I'd charge a different price for it. You are out of salt. I will put it on credit." Naila looked at the two objects. "Yours."
+
+"Yes."
+
+"You came east on what business."
+
+Kirin did not answer.
+
+Naila waited. After a long moment she said, "All right. You don't have to tell me. But you carry two of these in this corridor right now and somebody told you to do that, and I would like to know who, because the somebody is somebody I might have to lie to before the night is out."
+
+"Nobody told me to take the second one. I took it because I didn't know what else to do."
+
+"That," Naila said, "is the first true thing you've said to me. I'll take the rest of the salt for the lie about how you got here."
+
+Kirin opened the wax paper. Naila did not weigh this time. She took the second quarter pound by eye.
+
+"Your friend out there. Bex. He's been with us a week. He came up from the south on a short story I didn't believe at the time and like less now. Don't sleep with the door unbolted. If he comes through it before morning, scream. I am a light sleeper and I am within range." She paused at the door. "And I would like to talk to you about your ledger question in the morning. That is the question I think you are going to want to ask me."
+
+"What's the question."
+
+"You'll know what it is when you've slept. Get the sleep."
+
+She closed the door behind her, and Kirin heard the snick of the bolt sliding into the hasp from the outside, which she did not understand for a long second. It was not a lock. It was a marker. Naila could open it from outside. Anybody else would have to break it. Bex would see it and know it.
+
+It was, Kirin understood, both a kindness and a notice.
+
+She put both objects under the pillow. She blew out the lamp. She did not sleep.
+
+* * *
+
+She was still awake when she heard the boots in the hall.
+
+They were quiet. They were not Naila's; Naila walked heel-first, deliberate, the way she did everything. These walked on the ball, careful, the walk of a person who did not want to be heard and who had learned the floor first. Kirin sat up in the dark.
+
+The boots stopped at her door.
+
+The bolt did not turn. Kirin watched the door with her whole body. The boots stood there for what felt like a count of twelve, breathing. Then they went on down the hall and out of her hearing.
+
+She did not move for a long time. She did not sleep after that.
+
+* * *
+
+She was at the kitchen door at first light. Naila was already up.
+
+"He left," Naila said, without turning around. "Walked out the gate at four. Took my second-best pry bar. I'll add it to his account."
+
+"He came to my door."
+
+"He did. He didn't come in. I want you to understand the difference. Coming to the door is not nothing. It is not theft. It is information. He confirmed that you have what he wanted. He has now gone to tell somebody else."
+
+"Who."
+
+"That's the question." Naila turned. She had a kettle in her hand. "Sit. I owe you a tea for making you sleep with the bolt outside. Then we'll do the ledger."
+
+She made tea in two clay cups from a jar of leaves Kirin did not recognize. The tea was a color Kirin did not have a word for, and the smell of it took Kirin out of the diner for a half second to a kitchen window she had not stood at in three weeks.
+
+She did not say, *this smells like my grandmother's tea.* She drank.
+
+Naila drank.
+
+"Right," Naila said. "Ledger."
+
+She went into the back and came out with a book. The book was leather, yellow with age and use. The leather had a salt-rime along the spine that came off in a fine powder when Naila set the book down on the table. The spine cracked in three places when Naila opened it. Inside, the pages were ordinary paper — heavy paper, tabbed by year, written in a small careful hand in two colors of ink.
+
+"What's the question."
+
+Kirin put her hands flat on the table to keep them from shaking.
+
+"Has Adaeze Okonkwo ever passed through this station."
+
+Naila held still for a count of three. Then she opened the book at the back and worked back through the year tabs without speaking. She did not need to consult the index. She turned to a page and ran her finger down the column, and stopped.
+
+She did not turn the book toward Kirin. She read it aloud.
+
+"Adaeze Okonkwo. Sole. North-east in. North-east out. Three nights. September fourteenth through seventeenth, twenty-one twenty-five." She paused. "Paid in salt. Three pounds, second weight. Asked one question. Got it right."
+
+The room went quiet around Kirin in a way that Kirin had never experienced as a quality of a room. The wood stove ticked. The kettle settled. Outside, a bird started a song and stopped halfway through, as if it had reconsidered.
+
+"What was her question."
+
+"That is a different question and I would charge a different price for it. You are out of salt. I will accept it on credit, against the next time you are here."
+
+"What was her question."
+
+Naila looked at her. Naila did not look away.
+
+"She asked whether the Curator was still working his old route."
+
+"What's a Curator."
+
+Naila closed the book very carefully and put her palm flat on the cover.
+
+"That's what we are going to talk about now. And I am going to talk about it once, and you are going to remember it, because I will not say it again outside this room. Are you ready."
+
+"Yes."
+
+"You believe — and I know this because everybody who comes out from the Compact believes it — that the empty zone is being maintained by autonomous systems that nobody told to stop. The lawn drones. The road repair fleet. The school lights. The traffic light that cycles for nothing on the corner of nowhere and Meridian Road. You believe that because that is what the Compact says about the empty zone, and what the Compact says is what most people have time to know. Are you with me."
+
+"Yes."
+
+"It isn't true," Naila said. "Or it's only true if you don't look hard. The fleets are not autonomous. They are being directed. They have been being directed for at least fourteen years that I know of and probably longer. Somebody pays the maintenance contracts. Somebody chooses what gets kept and what gets let go. The empty zone is not a ruin running on inertia. It is a curated landscape. Curated."
+
+Kirin did not move.
+
+"Who," she said.
+
+"That is the next ten years of your life if you keep asking it. There are factions. There are at least three I can name and I will not name them out loud in this room. The Curator I told you about — your grandmother's question — is one of them. He has a route. He has a way he likes things kept. He does not work alone. He has been moving in this corridor, on and off, for as long as I have been at Salt. The young man who came to your door last night works for him."
+
+"And my grandmother knew this."
+
+"Your grandmother spent her September watching the route and confirming that the Curator was still on it. She paid me three pounds of salt to get a yes or a no. I gave her yes. She left with the answer and did not come back, which I had hoped she would, because I owed her something I never got to repay. I am sorry to be the one to tell you she was here." Naila looked at her for a moment. "And I am sorry to be the one to tell you why."
+
+"Why."
+
+"She was preparing the corridor for somebody. I think she was preparing it for you. I do not know that. I know what I saw."
+
+Kirin sat very still.
+
+"What was she preparing it for me to do."
+
+"The corridor is a lane that runs from Sable River to a place I do not name, where a thing that I do not name is kept. Your grandmother came to confirm whether the lane was clear of the Curator for a particular window. She left with the information that it was not. She went back to Sable River and sang to old men in a language they didn't know, and she died." Naila paused. "I do not know whether she died of being eighty-nine or of having walked a long way at eighty-nine in September. I have an opinion. I will keep it."
+
+"You think someone killed her."
+
+"I think *someone* is a word that is hiding behind two more words, and I will not say what those two words are out loud in a building that has comms in it." Naila stood. She put her hand on the leather cover of the ledger. "I am going to put this book away. I am going to make you a second cup of tea. After that you are going to make a choice, and you are going to make it in less time than you have."
+
+"What choice."
+
+"Whether to go on. The young man went somewhere. He went to a person. The person is, as we are sitting here, eighteen miles north of this gate, and that person now has a description of you and what you are carrying. You can leave west, on foot, and you might make it back to Kesmark before they pick you up. You can stay here, and they will come, and I will lie for you, but I will not lie for you well enough. Or you can leave east in a vehicle with a person who knows the corridor and who is willing to drive."
+
+"Dez."
+
+"Dez."
+
+"And what does Dez want."
+
+Naila looked at her for a long moment. The look had something in it that was not pity and was not warmth and was not contempt; it was the look Kirin remembered from her supervisor at the Board the day she had been promoted to second assay, the look of a person handing a younger person a knife and watching to see whether the younger person knew which end to hold.
+
+"Dez wants what I want and what your grandmother wanted. I do not know how to make you trust her. I do not entirely trust her myself. But she will drive you, because driving you is in her interest, and her interest does not require her to do you wrong this week. That is the most you are going to get from anybody in this corridor and it is also enough to live on, which is what most things are."
+
+Kirin opened her mouth to ask another question and the comm at Naila's belt chirped.
+
+It was a frequency that should not have worked at Salt. Naila had said this herself, by implication, last night, when she had told Kirin not to expect a backchannel to a city she had walked away from. Naila pulled the comm off her belt and looked at it the way a person looks at a snake that has already bitten them.
+
+A voice came out of it. Thin. Articulate. It said the name *Kirin Saleh* twice, with a pause between, and then it went quiet.
+
+Naila put the comm down on the table.
+
+"Get up. Go to your room. Pack your pack. Be at the back door in ninety seconds. Do not pass through the dining room. Do not say goodbye to anyone."
+
+Kirin was on her feet before Naila finished the sentence.
+
+* * *
+
+Dez was in the kitchen when Kirin came through it. Dez had a coat on and a small pack and the keys to a vehicle in her hand. Naila was at the back door.
+
+"Out."
+
+The vehicle was in a low shed behind the diner — a four-wheel utility with a long cargo bed and the matte gray paint that meant *do not bother to look at me.* Dez opened the driver's door and swung in. Kirin got in the passenger side. Naila came to the window.
+
+"East to the third overpass. Take the unpaved spur on the south. It's marked with two stones at the verge, you'll know them. From there to the depot at Larch is sixty miles. Yusra is at the depot. Tell her I sent you and that the Curator has an active intercept on the corridor."
+
+"Yusra," Dez said. Not a question. A confirmation.
+
+"Yes."
+
+"What about you."
+
+"I will tell the Curator, when he comes, that you went west. I will tell him about Bex, and I will tell him the truth about Bex because it is bad for the Curator that Bex came here, and worse for the Curator that the comm worked, and I would like the Curator to be busy with that for three days."
+
+"Naila."
+
+Naila looked at Dez. There was something in her face that was not for Kirin.
+
+"Drive. We'll square the salt later."
+
+Dez backed the vehicle out of the shed and turned it east on a maintenance road that did not appear on any map Kirin's data core had loaded, and the gate of Salt was behind them within a minute, and the diner sign with its two stacked names was a small flat shape in the side mirror, and then it was gone behind the shoulder of a low rise.
+
+Dez drove.
+
+Kirin sat with her hand in her jacket pocket. The key warmed against her fingers. It warmed steadily for a count of three. Then it cooled. It did this twice as the vehicle picked up speed and the road's surface changed under them from old patched asphalt to fresh work, and on the second cycle Kirin understood what she was feeling. The key was not reacting to her. It was reacting to the road. To something under the road, or above the road, or beside the road, something that pinged it once, listened for the reply, and stopped.
+
+A handshake.
+
+She did not say this to Dez.
+
+Dez drove. Dez did not say anything for two miles. Then, without looking over, Dez said: "You know what you're doing."
+
+"No."
+
+"Good. The ones who say yes are usually wrong."
+
+"Why are you driving me."
+
+"Because Naila asked."
+
+"That isn't an answer."
+
+"No, it isn't. Ask me again in three days, when we both still have an interest in the question. Right now what you should do is watch the wing mirror for a drone."
+
+"What kind of drone."
+
+"The kind that is not maintenance. If you see it, tell me. Don't reach for anything in your jacket. Don't sit forward. Just say *seen.*"
+
+Kirin watched the wing mirror.
+
+Dez drove.
+
+The road ran east through a country that the data core insisted was abandoned fields and that was, in fact, fresh-cut grass along a smooth verge with a drainage cut to current spec, and a row of utility poles whose insulators had been replaced in the last year, and somewhere ahead of them, at a depot that did not exist on any map Kirin had ever seen, a woman named Yusra was either expecting them or wasn't.
+
+She thought of the woman at mile twenty-two. She thought of Bex. She thought of Naila's hand on the leather cover of the ledger and the way Naila had said *I owed her something that I never got to repay.*
+
+She did not think of her grandmother. She had been thinking of her grandmother for three weeks and she could not, at this moment, do it again. She would do it again later, and she knew it, and she let it wait.
+
+The key warmed. It cooled.
+
+She watched the wing mirror.
+
+The road went on.
