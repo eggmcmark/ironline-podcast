@@ -1,0 +1,16 @@
+{
+  "episode": 4,
+  "season": 1,
+  "title": "The Curated Mile",
+  "series": "the-future-economy",
+  "timeline": "Spring 2126",
+  "pov_character": "Kirin Saleh",
+  "word_count": 7185,
+  "summary": "Kirin and Dez drive east on the maintenance spur from Salt toward Larch. Kirin reads the corridor as managed infrastructure through drainage angles, sight-line clearances, and re-pointed masonry. An unmapped depot in a hollow at mile fifty-three turns out to be the Larch facility, staffed by Outside and Compact shadow crews. The depot lead, Yusra, demands a key test on the maintenance interface: the key authenticates cleanly and confirms a live Rootstock bearer chit. The test triggers a response at the Curator's sensor tap in the mile-44 overpass. An operative far north sees the intercept, pulls Kirin's transit photo from the Kesmark registry, and requests a partner. Yusra reveals the three-faction arrangement that maintains sector four and tells Kirin there have been four carriers in the Adaeze line in two years. To get the route to Harrow Creek and avoid the Curator's team, Kirin gives up the partial authentication chip. They walk forty miles on a sensor-free ground path. At the junction post Kirin drops a chip description and they wait. The episode ends as something approaches from the east.",
+  "characters_appearing": ["Kirin Saleh", "Dez", "Yusra", "Unnamed tablet-carrier (Larch crew)", "Unnamed Outside-patch mechanic (Larch crew)", "Unnamed operative (Curator network, interlude POV)"],
+  "new_characters_introduced": ["Yusra", "Unnamed tablet-carrier (Larch crew)", "Unnamed Outside-patch mechanic (Larch crew)", "Unnamed Curator operative (interlude POV)"],
+  "locations": ["Maintenance spur east of Salt", "Concrete spillway", "Overpass at mile 44", "Larch depot", "Ground-level agricultural path", "Harrow Creek junction"],
+  "themes": ["reading surfaces", "the cost of information", "infrastructure as political territory", "what it means to be a carrier"],
+  "continuity_notes": "Kirin and Dez on foot at Harrow Creek junction, no vehicle. Someone approaching from east. Yusra has partial auth chip. Operative has Kirin's transit photo and partner inbound (72 hours). Curator array logged key at mile-44 overpass. Dez's 'not yet' on faction loyalty is a live thread.",
+  "written_at": "2026-05-14"
+}
