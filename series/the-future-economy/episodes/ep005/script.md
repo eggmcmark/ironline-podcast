@@ -686,4 +686,3 @@ She sat down and opened the log to page one.
 She had until midday tomorrow.
 
 She started from the beginning.
-

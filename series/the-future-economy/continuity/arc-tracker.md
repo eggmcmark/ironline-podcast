@@ -9,7 +9,7 @@
 ## Active Threads
 
 | Thread | Introduced | Status | Last Referenced |
-|--------|-----------|--------|-----------------|
+|--------|-----------|--------|------------------|
 | The authentication key / Rootstock Protocol | Ep 1 | Active — key behavior has changed at the campus: deep sustained warmth rather than cycling handshakes; authenticates to campus's terminal reader in deep-green (non-Compact encoding); went still once the door opened (question answered). Key is cold again once Kirin leaves the building. | Ep 5 |
 | Adaeze's hidden identity | Ep 1 | Substantially resolved — 35-year run as Rootstock witness documented in personal log; first signature in campus archive 2087; was here in 2124 and Sept/Oct 2125; last log entry Feb 14, 2126, three weeks before death. | Ep 5 |
 | The coordinates (400 miles east) | Ep 1 | Delivered — coordinates point to the archive campus. The "equity claim" is not EQU but a physical archive: the Outside's own record of its own existence. | Ep 5 |
@@ -46,14 +46,14 @@
 - **Age**: Late 20s
 - **Class**: Keeper
 - **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave)
-- **State**: End of Ep 5 — inside the sealed archive building at the campus; carrying her key, Renata's chit, Adaeze's personal log, and the population atlas; has explicit terms with Dez (two copies of documentation, two routes out); departure south toward Meridian planned for midday.
+- **State**: End of Ep 4 — on foot at Harrow Creek junction with Dez; no vehicle (held at Larch); carrying her key and Renata's chit (partial chip given to Yusra); understands the key authenticates autonomously including to hostile infrastructure; has read the corridor as managed space using materials-analysis skills; knows the three-faction curation structure; knows there is a Curator partner inbound; waiting for unknown contact from east.
 - **Key traits**: Reads surfaces (literally and metaphorically). Practical. Wry. Newly competent at lying. Beginning to think operationally.
 
 ### Adaeze Saleh née Okonkwo (deceased)
 - **Appeared on Ledger**: 2091
 - **Died**: 3 weeks before story opens, age 89
 - **Pre-Compact identity**: Adaeze Okonkwo. Igbo surname. Member of a Rootstock plateau settlement (founder Nnedi).
-- **Late life**: Active operator in the corridor as recently as September 2125. Confirmed Curator route. Went home and died. Final log entry Feb 14, 2126, three weeks before death — three instructions, one warning about north terminal, the mission statement line.
+- **Late life**: Active operator in the corridor as recently as September 2125. Confirmed Curator route. Went home and died.
 
 ### Hasse Lindgren
 - **Role**: Senior materials analyst, 41 years at the Board.
@@ -65,11 +65,11 @@
 
 ### Tomas
 - **Role**: Kirin's best friend since they were 14. Guild carpenter.
-- **Key detail**: Outfitted Kirin. Told her to buy preserving salt. Has backchannel to corridor people. His mother passed through the corridor in 2094 per Adaeze's log — Tomas knows more than he said in Ep 2.
+- **Key detail**: Outfitted Kirin. Told her to buy preserving salt. Has backchannel to corridor people.
 
 ### Brigid Aelfgar
 - **Role**: Kirin's supervisor at the CapEx Board. Founder-class assessor.
-- **Key detail**: Released Kirin with grace. Classified her station as *Held at supervisor discretion* — used three times before; all three returned. Has been waiting for someone to bring something back. Ep 13 reveal pending.
+- **Key detail**: Released Kirin with grace. Classified her station as *Held at supervisor discretion* — used three times before; all three returned. (Ep 13 reveal: at least one return was not what it looked like.)
 
 ### Reva
 - **Role**: Very old woman, late 90s, at The Bench.
@@ -93,25 +93,25 @@
 - **Role**: Keeper of Salt. Former Free Zone medic.
 - **Age**: Fifties.
 - **Speech patterns**: Clipped. Medical-precise. Wastes nothing. Refuses to deliver epigrams.
-- **Key detail**: Charges in salt. Salt-cured ledger. Owed Adaeze a debt. Stayed at Salt to misdirect the Curator. Lied to Curator operatives in Ep 5, sent them north. Naila's vehicle held at Larch.
+- **Key detail**: Charges in salt. Salt-cured ledger. Owed Adaeze a debt. Stayed at Salt to misdirect the Curator. Naila's vehicle held at Larch.
 
 ### Dez
 - **Role**: Working operator in the corridor. Sells passage and information.
-- **Background**: Former Free Zone logistics coordinator. Eight years in the corridor. Worked maintenance-grid infrastructure (secondary water management, eastern districts) for four years before the corridor.
+- **Background**: Former Free Zone logistics coordinator. Eight years in the corridor. Has worked all factions.
 - **Speech patterns**: Mid-rhythm, watchful, withholds. Calibrated neutral.
-- **Key detail**: Recognizes the vulnerable junction components in the archive's infrastructure report. "I didn't know anyone was downstream." Explicit alliance terms established with Kirin: two copies of documentation, carried separately, two routes out.
+- **Key detail**: Naila vouched: "her interest does not require her to do you wrong this week." Answered "not yet" when asked if the faction-payment distinction had stopped mattering. This week almost up.
 
 ### Bex
 - **Role**: Curator operative planted at Salt.
-- **Key detail**: Came to Kirin's door at 4 a.m. and did not enter. Walked north after Salt.
+- **Key detail**: Came to Kirin's door at 4 a.m. and did not enter. Left with a description of what she's carrying.
 
 ### The Curator
 - **Role**: Antagonist faction lead.
-- **Key detail**: Directs maintenance contracts; controls corridor access for Adaeze-line bearer chits. Adaeze confirmed he was still on his route September 2125. Two operatives visited Salt in Ep 5.
+- **Key detail**: Directs maintenance contracts; controls corridor access for Adaeze-line bearer chits. Adaeze confirmed he was still on his route September 2125.
 
 ### The cold-open operative
 - **Role**: Curator field agent. Hunts Adaeze-line chits.
-- **Key detail**: Did not look at Renata's face. Reports to thin-voiced controller. Possibly the inbound partner from Ep 4.
+- **Key detail**: Did not look at Renata's face. Reports to thin-voiced controller.
 
 ### Renata
 - **Role**: Carrier killed at mile 22. Free Zone canvas pack. Mid-twenties.
@@ -131,7 +131,7 @@
 - Operates from pressurized comm shelter on truck. Pulled Kirin's Kesmark transit photo (Guild certification ceremony style). Typed *request additional credentialed operator* not *send a team.* Partner inbound, 72 hours. Told partner: do not approach Larch.
 
 ### The missing carrier *(unnamed, unknown status)*
-- Per Yusra: went east through Larch in the last two years, never heard from. Possibly the previous campus steward who "went west." Resolve Ep 7–8.
+- Per Yusra: went east through Larch in the last two years, never heard from. Resolve no earlier than Ep 7–8.
 
 ### Kovacs
 - **Role**: Kesmark dry-goods shopkeeper.
@@ -145,7 +145,7 @@
 
 ### Ama
 - **Role**: Escort/courier from the Outside network. Picked up Kirin and Dez at Harrow Creek, drove them to the campus, left immediately.
-- **Speech**: Almost wordless. Said her name once and nothing else of substance.
+- **Speech**: Almost wordless. Four words total. Gave her name once. Took the chip from the post and did not return it.
 - **Key detail**: Walked to the post on foot so the vehicle approach didn't announce. Operational discipline. Reappear Ep 12–13 (reverse corridor run).
 
 ### Fen
@@ -159,7 +159,7 @@
 ## World State
 
 - **Year**: 2126
-- **Setting**: Active — the campus archive, eastern managed sector. Kirin and Dez are inside the sealed archive building (door reopens at first light). Departure south toward Meridian planned for midday.
+- **Setting**: Active — the campus archive, eastern managed sector. Kirin and Dez are inside the archive building (door sealed until first light). Departure planned for midday Ep 6, heading south toward the coast and Meridian.
 - **Key world details**:
   - **The Outside is not small.** 6–11 million people by the archive's survey, not "a few hundred thousand." The archive is the Outside's record of itself.
   - **The empty zone is curated.** Three factions: Outside maintenance (since 2112), Compact shadow budget, Curator. Sector-based (8 sectors, ~40 miles each).
