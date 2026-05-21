@@ -1,0 +1,16 @@
+{
+  "episode": 5,
+  "season": 1,
+  "title": "The Reading Room",
+  "series": "the-future-economy",
+  "timeline": "Spring 2126",
+  "pov_character": "Kirin Saleh (primary); brief interlude POV on Naila Brace",
+  "word_count": 8835,
+  "summary": "Picked up from Harrow Creek by a taciturn escort named Ama, Kirin and Dez are driven forty miles east to an unmapped campus in the managed sector. Fen, the archive's sole steward, shows them to the sealed building beneath the campus, where Kirin's key opens a physical archive that is the Outside's own record of its own existence — population atlases, infrastructure reports, historical documentation covering thirty-five years of a civilization the Compact has been looking at without seeing. Kirin finds her grandmother's section in aisle seven, including a map in Adaeze's own hand from 2095, a check-out record showing eleven visits, and finally Adaeze's personal log running from 2091 to 2126. The log's last entry names three concrete instructions and identifies the child in the photograph as Nnedi Eze. A short interlude at Salt shows Naila deflecting two Curator operatives northward. The episode ends with Kirin at the reading table, the log open to page one, the door sealed until first light, and a departure for Meridian planned for midday.",
+  "characters_appearing": ["Kirin Saleh", "Dez", "Ama", "Fen", "Naila Brace"],
+  "new_characters_introduced": ["Ama", "Fen"],
+  "locations": ["Harrow Creek junction", "The road east of Harrow Creek", "The campus (unnamed)", "The archive (lower level)", "Salt (interlude)"],
+  "themes": ["What a life of watching looks like from the outside", "Archives as an act of witness", "The gap between official maps and inhabited reality"],
+  "continuity_notes": "Adaeze's three instructions: (1) take the population atlas to Dara in Meridian; (2) deliver the infrastructure report to Brigid at Sable River; (3) find Nnedi Eze. The child in the photograph is now named. Dez worked maintenance-grid infrastructure in the eastern districts before the corridor and has personal knowledge of the vulnerable junction components. Tomas Bergström's mother passed through the corridor in 2094 — Tomas knows more than he has said. Brigid has been waiting for someone to bring something back (arc-tracker note: the 'three of three returned' gets a new layer of meaning). Kirin and Dez now have explicit terms: two copies of the infrastructure documentation, carried separately, two routes out. The campus has a 72-hour clearance window from end of this episode — Ep 6 must begin with Kirin leaving at midday. The north terminal inside the archive authenticates to the Curator's secondary array — important security detail. Ama should reappear later. Fen should reappear in Ep 12 (Salt Owed).",
+  "written_at": "2026-05-21"
+}
