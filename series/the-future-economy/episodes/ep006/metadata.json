@@ -1,0 +1,16 @@
+{
+  "episode": 6,
+  "season": 1,
+  "title": "What She Read",
+  "series": "the-future-economy",
+  "timeline": "Spring 2126",
+  "pov_character": "Kirin Saleh (primary); Fen (interlude)",
+  "word_count": 7033,
+  "summary": "Kirin reads her grandmother's log through the night at the archive campus, encountering entries about the water management grid, Naila, and her own parents — and the long August entry from 2104 that she reads once and does not re-read. At dawn she and Dez leave the campus with the log, the population atlas, and the photographed infrastructure report. En route south through unclaimed transitional zone, Kirin uses Amira's point-to-point comm for the first time: Perun has rendered six of the twelve Tamsat letters, which are formal institutional correspondence appointing Adaeze Okonkwo as the Compact interior witness in 2088. Examining Renata's chit at the cistern, Kirin recognizes the etched glyph as the first character of 'Okonkwo.' Dez discloses her separate reason for Meridian: a Trade District contact tracking current water management failure projections. They camp in the transitional zone; Kirin holds the log but does not open it. Interlude: the Curator's operative arrives at the campus thirty-one hours later — Fen gives him nothing. On the second afternoon they reach Meridian's outer circulation road, cross through Gilles' shift, and enter the Trade District, where Kirin locates the dyers' building and the second floor above it.",
+  "characters_appearing": ["Kirin Saleh", "Dez", "Fen", "Unnamed Curator operative"],
+  "new_characters_introduced": ["Gilles"],
+  "locations": ["The archive campus (managed sector)", "Transitional zone (south route)", "Meridian outer approach", "Meridian Trade District"],
+  "themes": ["What inheritance actually costs", "Institutional obligation vs. personal choice", "Reading the world vs. reading documents"],
+  "continuity_notes": "Adaeze's formal appointment as Compact interior witness confirmed: institutional succession agreement, 2085-2088, drafted by two offices (identity of second office unknown). Renata's chit glyph identified as first character of 'Okonkwo' — Naila gave the enrollment mark. Dez has a Trade District infrastructure contact (unnamed) tracking water management component failure projections. Gilles introduced as reliable crossing operator. Fen's campus is now on the Curator's active survey list. The 2104 entry about Kirin's parents has been read — content deliberately withheld from the listener.",
+  "written_at": "2026-05-28"
+}
