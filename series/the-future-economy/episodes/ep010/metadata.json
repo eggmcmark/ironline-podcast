@@ -1,0 +1,16 @@
+{
+  "episode": 10,
+  "season": 1,
+  "title": "Adaeze's People",
+  "series": "the-future-economy",
+  "timeline": "March 2126",
+  "pov_character": "Kirin Saleh (primary); Rua (cold open)",
+  "word_count": 8543,
+  "summary": "Kirin reaches the plateau settlement after a four-day walk from the second way-station. She meets Rua, the council infrastructure lead who has been holding Nnedi's Rootstock key for two months since Nnedi's death. When the two keys are placed together for the first time since 1978, they complete a joint authentication handshake—the Rootstock Protocol moving from registered-dormant to active. Kirin meets Veda, Adaeze's ideological adversary, and Eme, Nnedi's granddaughter. She sees the junction from Adaeze's twenty-seven years of tracking in person—a membrane in third-stage fatigue, weeks from failure. The council formally offers the witness role. Kirin asks for three days to decide. Berin Kosta arrives from the archive node. On the third evening, a sensor relay confirms the junction is already failing: pressure drop of 0.7% per eighteen hours, fourteen to twenty-one days to critical failure. Kirin accepts the role and leaves with both keys in the morning.",
+  "characters_appearing": ["Kirin Saleh", "Rua", "Veda", "Eme", "Berin Kosta"],
+  "new_characters_introduced": ["Veda", "Eme"],
+  "locations": ["Plateau settlement basin", "Western slope drainage channel", "Sector six eastern junction", "Founding building (original 2067 structure)"],
+  "themes": ["inheritance as role not property", "the cost of legibility", "infrastructure as politics", "the difference between preventing and allowing"],
+  "continuity_notes": "The joint Rootstock Protocol authentication is now active — both keys needed to be together and have completed the handshake. Kirin is carrying both keys west. The sector six junction is in active failure: pressure drop confirmed, 14-21 days to critical threshold. The growing season begins in 6 weeks — the junction will fail before it. Berin Kosta has left the archive node and is with Kirin on the plateau; his plans for the route west are unresolved as of episode end. Veda's objection to the witness role is legitimate and unresolved — she will be relevant to any community debate about the filing's consequences. Eme (Nnedi's granddaughter) introduced; the founding building stands on the settlement.",
+  "written_at": "2026-06-25"
+}
