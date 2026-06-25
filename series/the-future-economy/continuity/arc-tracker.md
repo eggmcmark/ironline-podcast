@@ -1,8 +1,8 @@
-# Arc Tracker — The Future Economy (v11)
+# Arc Tracker — The Future Economy (v12)
 
 *Updated after each episode.*
 
-*Status: Episodes 1–9 published. Ep 9 ("Landfall") written 2026-06-18.*
+*Status: Episodes 1–10 published. Ep 10 ("Adaeze's People") written 2026-06-25.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Thread | Introduced | Status | Last Referenced |
 |--------|-----------|--------|------------------|
-| The authentication key / Rootstock Protocol | Ep 1 | Active — **Ep 9 update**: key intensified (settled warmth increased) at the second way-station, where the network has more density. Heading toward the plateau — Adaeze's letter says the two keys "have not been in the same room since 1978." The key needs to be in the presence of what is waiting for it on the plateau. **Nnedi's key location unknown** — Nnedi died January 2126 without known transfer; ask Rua (plateau council, was with Nnedi at end). Resolve Ep 10. | Ep 9 |
+| The authentication key / Rootstock Protocol | Ep 1 | **Ep 10 update**: Joint authentication handshake COMPLETE. Both keys placed together for the first time since 1978 on Rua's work table. Both cycled simultaneously and settled at a new register. The Rootstock Protocol is now active (registered-dormant → active). Kirin is carrying BOTH keys west — the disc (Nnedi's founding appointment) and her card (Adaeze's interior appointment). The disc runs slightly warmer than the card; founding appointment is the older, more loaded implementation. Protocol now ready for filing. | Ep 10 |
 | Adaeze's hidden identity | Ep 1 | Substantially resolved — appointment as Compact interior witness confirmed. Her Sable River placement now revealed as the third layer: specifically designed to prevent the EQU-convertibility play by keeping the key inside the Compact's prohibition zone. | Ep 7 |
 | The coordinates (400 miles east) | Ep 1 | Delivered Ep 5. | Ep 5 |
 | Unreadable letters / Tamsat | Ep 1/2 | **DELIVERED Ep 8** — all 12 letters complete. All formal/administrative, no personal address until the last letter's final paragraph (first bearer named, not successor). Key finding: the appointment was made to the key, not the person. Whoever holds the key holds the appointment. No revocation mechanism exists in the text. "The key will find its own way. Your task is only to hold it long enough for that to happen." | Ep 8 |
@@ -39,10 +39,11 @@
 | **The Meridian market watcher / Veritas Structured** | Ep 7 | **Ep 8 update**: Veritas Structured's market queries have stopped and the watcher has left the lane. Dara does not know which of three explanations is correct: (a) found another avenue; (b) lost confidence in their model; (c) found what they needed elsewhere. She is unsettled — in eleven years of monitoring, she has not been in a position of not knowing. This is a live uncertainty. Active threat with changed behavior. | Ep 8 |
 | **Dara's return contact commitment** | Ep 7 | Active — Kirin has committed to one message from Sable River in six months. First contact window: ~December 2126. | Ep 7 |
 | **Adaeze's sealed envelope** | Ep 8 | **DELIVERED Ep 9** — opened at the second way-station, Ade's yard. Three paragraphs. Contents: plateau route, protocol for meeting Nnedi (ask to see her key first, let her offer), and the recontextualization of the third instruction: "take the key to the plateau and let what happens happen." The two keys have not been in the same room since 1978. Kirin does not know what will happen. Adaeze says she will know when she arrives. Thread closed. | Ep 9 |
-| **Nnedi's Rootstock key** | Ep 8 | **Ep 9 update**: Nnedi is dead. Key status: unknown. She held it privately throughout her time on the plateau, kept it outside the settlement's collective documentation framework, caused friction but never gave it up. Whether she passed it on before dying, and to whom, is unknown. Per Saren: ask Rua (plateau council infrastructure lead, was with Nnedi at the end). Resolve Ep 10. | Ep 9 |
-| **Outside census count** | Ep 8 | **NEW** — Crucita provides current internal census: 7.1 million (as of June 2125). Dara's atlas figure is 6.2 million (Adaeze's last survey, assembled September 2125, pre-dating the June census by three months). The atlas is still the most complete external-facing document. But any legal challenge to the EQU-convertibility claim would attack the population methodology, and the actual number is nine hundred thousand higher. Note for Ep 12 (the filing). | Ep 8 |
-| **Rua** | Ep 9 | **NEW** — Plateau settlement council infrastructure lead. Was with Nnedi Eze in the last months before her death in January 2126. If anyone knows what happened to Nnedi's Rootstock key, it is Rua. Kirin's note to Berin Kosta: *find me at Rua's if you come before I leave.* Resolve Ep 10. | Ep 9 |
-| **Berin Kosta at the archive node** | Ep 8/9 | **Ep 9 update**: Berin received the relay about a new bearer at his exterior work table at the archive node, sector twelve. He is alive and oriented. He has been at the node eleven months, fixing a cataloguing system that had been failing for eight years since its builder died. The node is now sixty percent complete — functional, retrievable. He intends to come to the second way-station in one week when the current section of work allows him to leave cleanly. Kirin's note to him: find me at Rua's on the plateau if he comes after she's already left. | Ep 9 |
+| **Nnedi's Rootstock key** | Ep 8 | **RESOLVED Ep 10** — Nnedi gave the disc to Rua three weeks before dying. Instruction: hold it until the bearer with the other key arrives. Rua held it two months, one week, four days in her survey case. Now with Kirin — she carries both keys west. Disc form factor: smaller than card, radial contact pattern, slightly warmer than the card (founding appointment is the older, more loaded implementation). Joint authentication handshake complete. | Ep 10 |
+| **Outside census count** | Ep 8 | Active — Crucita: 7.1M (June 2125). Atlas: 6.2M. Gap of 900K. EQU-convertibility filing vulnerability. Ep 12. | Ep 8 |
+| **Rua** | Ep 9 | **Ep 10 update**: Rua is the plateau council's infrastructure lead. She held Nnedi's key per Nnedi's instructions. She has now transferred both keys to Kirin. She also took Kirin to the sector six junction in person — the membrane fatigue signature visible, third-stage stress. She is managing the replacement project timeline (8-12 weeks for materials, which will arrive after failure). She remains on the plateau. Key contact for plateau-side operations. | Ep 10 |
+| **Berin Kosta at the archive node** | Ep 8/9 | **Ep 10 update**: Arrived at the plateau settlement on day seven after the relay — faster than he said (completed his section, two days' travel at pace). Offered to come west with Kirin; decision unresolved at episode end. Brought route notes from the archive documents: junctions, maintenance points, population nodes in organized form the plateau hadn't had. His plan for the route west is open — Ep 11 will determine whether he accompanies Kirin or stays. | Ep 10 |
+| **Sector six junction — ACTIVE FAILURE** | Ep 10 | **NEW URGENCY** — Sensor relay confirmed on Ep 10's third evening: 0.7% housing pressure drop per eighteen hours. At this rate: critical failure threshold in 14–21 days. Growing season begins in six weeks. The junction will fail before the growing season. Basin agricultural plot (40 hectares) loses 60% of water input. Replacement materials: 8–12 weeks in transit, will not arrive before failure. Seven other similar junctions in eastern sector in comparable condition. The Compact infrastructure board has had the condition data for 27 years and has not responded. **This is the engine for Ep 11.** | Ep 10 |
 
 ---
 
@@ -52,7 +53,7 @@
 - **Age**: Late 28 or 29
 - **Class**: Keeper
 - **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave)
-- **State**: End of Ep 9 — **leaving the second way-station, heading northeast to the plateau**. Five-day walk behind her. Envelope opened and received. Third instruction recontextualized: not a delivery but a presence — take the key to the plateau, let what happens happen. Carries: the log (read through 2124, close to the end), the transit record, clay disc case (4 discs remaining, plateau approach uses own glyph system), infrastructure photographs, Adaeze's letter (read, replaced in pocket), the second comm (depleted). Route: four days northeast, ridge by three landmarks, western descent into the basin, ask for Rua. Note to Berin Kosta: find me at Rua's if he comes after she's left.
+- **State**: End of Ep 10 — **leaving the plateau at dawn, heading west**. Carries: both keys (card + disc, both in jacket pocket), the log (read through 2125, near end), transit record, infrastructure photographs (sealed sleeve, Adaeze's second instruction), clay disc case (4 discs remaining, return route), Adaeze's letter, depleted comm. Has accepted the witness role — key-bound appointment now held by her. Route west: four days to second way-station, then the transit gate, then the corridor, then Sable River. Target: deliver the infrastructure report to Brigid Aelfgar before the sector six junction fails (14–21 days). Berin Kosta's status on the return route: unresolved.
 - **Key traits**: Reads surfaces. Practical. Wry. Thinks operationally. Has been walking toward things she didn't fully understand for two months and has gotten good at that.
 
 ### Adaeze Saleh née Okonkwo (deceased)
@@ -201,9 +202,11 @@
 - **Key detail**: Runs the first relay link before the settlement's school session starts. Has been doing it eleven months. Takes the responsibility seriously.
 
 ### Rua
-- **Role**: Plateau settlement council infrastructure lead. Was with Nnedi Eze at the end.
-- **State**: Not yet met. Six years on the council. Was close to Nnedi in the last year before Nnedi's death in January 2126. If anyone knows what happened to Nnedi's Rootstock key, it is Rua. Kirin's note to Berin Kosta names Rua's as the meeting point.
-- **Reappear**: Ep 10 (principal character).
+- **Role**: Plateau settlement council infrastructure lead.
+- **Background**: Six years on the council. Was close to Nnedi in the last year. Ran the drainage survey on the western slope as her primary ongoing work. Held Nnedi's key per Nnedi's instructions for two months without disclosing it to the council.
+- **Speech patterns**: Flat. Practical. Technical language. Gives briefings, not conversations. Information delivered in the order it will be needed. Does not editorialize. Occasionally dry in a way that is not performed.
+- **State**: End of Ep 10 — Kirin has left. Rua is managing the sector six replacement project timeline. Knows the junction will fail before the materials arrive. Managing this with the settlement's emergency protocols.
+- **Reappear**: Ep 12–13 (plateau-side of the corridor operation, possible communications relay).
 
 ---
 
@@ -228,21 +231,40 @@
 
 ---
 
+## Characters Introduced in Ep 10
+
+### Veda
+- **Role**: Longtime plateau settlement resident; one of the founding generation.
+- **Age**: Sixties.
+- **Background**: Part of the founding group that established the plateau settlement in the 2060s–70s. Has been there since before Nnedi built the place into what it became.
+- **Speech patterns**: Deliberate. Makes arguments rather than statements. Does not hedge, does not build to conclusions — presents them directly and waits to see if they hold. Does not perform her disagreement; it is structural.
+- **Key detail**: Adaeze's ideological adversary. Her position: working inside the Compact's system legitimizes the Compact's right to keep the Outside hidden. The independence of the settlements is not a means to an end; it is the end. Legibility to the Compact may split the community — some will take Commons access, some won't. She is not wrong. Neither is Adaeze. This tension is unresolved and will recur in Ep 11–12 (the filing's consequences).
+- **Reappear**: Ep 12 (community response to the filing).
+
+### Eme
+- **Role**: Nnedi Eze's granddaughter. Plateau settlement, field crew.
+- **Age**: Late twenties.
+- **Background**: Born on the plateau. Never seen the Compact. Works the agricultural plots. Has the founding building's history in her head the way settlement children absorb local history — not formally, but completely.
+- **Speech patterns**: Flat, direct, specific. Answers the question asked and not the question implied. Does not perform connection with Kirin.
+- **Key detail**: Showed Kirin the founding building from the photograph (now storage, root cellar in the lower level). The building stands. Original mortar seam visible — the crack was fixed and the building continued. Not a symbolic moment; just an accurate one.
+- **Reappear**: TBD. Possible Ep 12–13 (plateau-side communications).
+
+---
+
 ## World State
 
-- **Year**: 2126 (March)
-- **Setting**: Kirin leaving the second way-station, four-day route northeast to the plateau settlement. Key in settled register, intensified at the way-station. Nnedi Eze dead since January. Next: plateau, ask for Rua, find the key or find who holds it or find what Adaeze meant by "let what happens happen." Berin Kosta coming from sector twelve archive node in approximately one week.
+- **Year**: 2126 (late March)
+- **Setting**: Kirin departing the plateau at dawn, heading west. Both keys in her pocket. Route: four days to second way-station, transit gate, corridor, Sable River. 14–21 days before sector six junction reaches critical failure. Growing season in six weeks.
 - **Key world details** (updated):
   - Outside population: **7.1 million** per current internal census (June 2125). Dara's atlas figure: 6.2 million. Compact understanding: "a few hundred thousand."
-  - Second way-station settlement runs community resource governance through a reparation-proposal process — slower than the Compact's Board mediation, requires working through rather than deciding.
-  - The second archive node (sector twelve) holds the Outside's own records — Berin has been cataloguing for eleven months.
-  - Empty zone curated by three factions.
-  - Salt is corridor currency.
-  - Authentication keys are smartcards. Kirin's key in settled, active register inside the Outside.
+  - Plateau settlement: 700 people in the basin. Stone-built, founded 2060s. Planned layout — not organic accumulation. Original founding building still stands (now storage).
+  - Rootstock Protocol: joint authentication NOW ACTIVE. Both keys in joint handshake-complete state. Protocol ready for filing.
+  - Kirin carries BOTH keys — card and disc — westward. The appointment is key-bound. She has accepted the witness role.
+  - Sector six junction: ACTIVE FAILURE. 0.7%/18h pressure drop. Critical threshold: 14–21 days. Growing season: 6 weeks. Replacement materials: 8–12 weeks. Failure will happen first.
+  - Seven other similar junctions in comparable condition across the eastern sector.
   - EQU-convertibility play active threat. Atlas held by Dara. Veritas Structured behavior changed.
-  - Infrastructure failure window: 18 months to 3 years for eastern junction components. Dez is working this from the corridor side.
   - The appointment is key-bound, not person-bound. No revocation mechanism exists.
-  - The third instruction: not "find Nnedi." Take the key to the plateau and let what happens happen. Kirin is going.
+  - The third instruction: **DELIVERED Ep 10** — the two keys handshook, the protocol activated. What happens next is the filing.
 
 ---
 
@@ -268,10 +290,12 @@
 | **Renata's chit** | Ep 3 | **Delivered Ep 6** |
 | **The operative's partner** | Ep 4 | **Delivered Ep 6 Turn** |
 | **The missing carrier** | Ep 4 | **DELIVERED Ep 8** — Berin Kosta, admitted Feb 2125, alive inside. Contact relay via Ade at second way-station. |
-| **Adaeze's three instructions** | Ep 5 | (1) Dara/atlas: **DELIVERED Ep 7**; (2) Brigid: Ep 14; (3) Nnedi: Ep 9 |
+| **Adaeze's three instructions** | Ep 5 | (1) Dara/atlas: **DELIVERED Ep 7**; (2) Brigid/infrastructure report: **Ep 11** (urgent now — junction failing); (3) "let what happens happen": **DELIVERED Ep 10** — joint authentication complete. |
 | **Tomas knows about the corridor** | Ep 5/7 | He knew since at least 2118. Build toward Ep 12 contact. |
 | **"Coming home. 2089."** | Ep 1 | **Delivered Ep 6** |
 | **EQU-convertibility play** | Ep 7 | Active threat. Atlas held by Dara. Veritas Structured behavior changed (queries stopped, watcher gone — reason unknown). Outside census 7.1M vs. atlas 6.2M — potential filing vulnerability. Ep 11–12. |
 | **Adaeze's sealed envelope** | Ep 8 | **DELIVERED Ep 9** — opened at the second way-station. The third instruction recontextualized. |
-| **Nnedi's Rootstock key** | Ep 8 | Nnedi is dead. Key location unknown. Ask Rua. Resolve Ep 10. |
-| **"Let what happens happen"** | Ep 9 | Adaeze's actual third instruction. Kirin going to the plateau without knowing what she's delivering. Ep 10. |
+| **Nnedi's Rootstock key** | Ep 8 | **DELIVERED Ep 10** — key was with Rua. Now with Kirin. Joint authentication complete. |
+| **"Let what happens happen"** | Ep 9 | **DELIVERED Ep 10** — the two keys handshook. The protocol is active. Kirin has accepted the witness role. |
+| **Sector six junction — active failure** | Ep 10 | 14–21 days to critical threshold. The infrastructure report to Brigid is now urgent, not eventual. Ep 11. |
+| **Veda's objection** | Ep 10 | Unresolved — legibility will split the community. Some settlements will take Commons access, some won't. Real consequence of the filing. Ep 12. |
