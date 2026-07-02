@@ -1,0 +1,37 @@
+{
+  "episode": 11,
+  "season": 1,
+  "title": "The Thing That's Coming",
+  "series": "the-future-economy",
+  "timeline": "Late March – Early April 2126",
+  "pov_character": "Kirin Saleh (primary); Ardent (cold open, interlude)",
+  "word_count": 7842,
+  "summary": "Kirin and Berin leave the plateau at dawn, heading west against a junction failure window now measured in days. Walking the route back, Berin provides the full scope: eight failing junctions across the eastern and northern sectors, serving one to two million people, with condition data the Compact's infrastructure board has been receiving and not reading for twenty-seven years. At the second way-station, Ade briefs them on Veritas Structured's changed behavior — they stopped open-market queries because they found a different authentication avenue — and the Curator's new tactic: watching the documentation chain rather than the bearer. Kirin sends the junction list ahead to Meridian, routed to Brigid Aelfgar through Dara. In parallel, Ardent receives the relay intercept and chooses, for now, not to apply pressure to the broker — watching, not yet moving. The episode ends with Kirin walking south toward the transit gate, four days from Sable River, four to five days ahead of the junction's failure threshold.",
+  "characters_appearing": [
+    "Kirin Saleh",
+    "Ardent",
+    "Kel",
+    "Rua",
+    "Berin Kosta",
+    "Ade"
+  ],
+  "new_characters_introduced": [
+    "Ardent",
+    "Kel"
+  ],
+  "locations": [
+    "Plateau settlement (departure)",
+    "Western scrub zone and transit route",
+    "Transit gate (maritime facility)",
+    "Second way-station",
+    "Compact internal-security room (Ardent's)"
+  ],
+  "themes": [
+    "The shape of opposition",
+    "Infrastructure as politics",
+    "Documentation versus crisis timing",
+    "What it costs to hold knowledge"
+  ],
+  "continuity_notes": "Ardent is on screen for the first time, confirmed to have been tracking the Okonkwo-line for twelve years without finding the key because Adaeze used no tradecraft. Kel is a new character at Ardent's desk. Sector six pressure reading now at 0.94%/18h, failure window narrowed to 4-5 days from episode end. Junction list relay sent to Meridian in morning chain (5-7 days to Dara). Documentation relay sent to sector twelve overnight. Ardent is monitoring the Meridian broker but has not applied pressure. Veritas Structured has a procurement inquiry for Rootstock-compatible hardware out — they found an alternative authentication avenue. Berin Kosta is traveling west with Kirin. Naila's vehicle at Larch authorized for release to Kesmark contact.",
+  "written_at": "2026-07-02"
+}
