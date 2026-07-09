@@ -1,8 +1,8 @@
-# Arc Tracker — The Future Economy (v13)
+# Arc Tracker — The Future Economy (v14)
 
 *Updated after each episode.*
 
-*Status: Episodes 1–11 published. Ep 11 ("The Thing That's Coming") written 2026-07-02.*
+*Status: Episodes 1–12 published. Ep 12 ("Salt Owed") written 2026-07-09.*
 
 ---
 
@@ -19,10 +19,10 @@
 | Perun was a Rootstock witness himself | Ep 2 | **RESOLVED Ep 8** — translation complete, all 12 letters. His work is done. May be relevant again if the appointment's origins need deeper research (Ep 12+). | Ep 8 |
 | Efe and the unknown song | Ep 2 | Resolved Ep 5. | Ep 5 |
 | Amira's backchannel | Ep 2 | **Both comms used** — first Ep 6 (partial translation), second Ep 8 (full translation). Both charge cells depleted. Backchannel circuit is closed. | Ep 8 |
-| **The Curator / Ardent** | Ep 3 | **Ep 11 — ON SCREEN FOR FIRST TIME.** Name confirmed: Ardent. Has been managing the Outside suppression for 18 years, tracking the Okonkwo-line specifically for 12 years. His apparatus: small (Kel at a second desk; field operatives in the corridor). Official cover: plausibly Foundation Assessor background. Current tactic: **watching the broker (Dara) rather than the bearer.** Ardent's reasoning: the filing requires three components and he can't touch the atlas or the keys; the documentation chain (formatted infrastructure survey) is the vulnerable point. He knows a relay went from the second way-station to Meridian. He did NOT apply pressure to Dara — chose to watch and wait, believing the junction failure will arrive before the filing. His principled error: he is managing the acknowledgment of the Outside, not the reality of it. The junctions fail whether or not the Compact knows. | Ep 11 |
+| **The Curator / Ardent** | Ep 3 | **Ep 12 update**: Has now moved against people for the first time in 18 years. Filed a trade flag on Dara's brokerage (enhanced customs documentation, slow her future operations). Filed a compliance flag on Kirin's Board account (mandatory human review on any submissions). The trade flag landed after Dara had already sent the Brigid envelope — five days too late. The compliance flag created a human reviewer for Kirin's materials assessment — the exact opposite of what he intended. Ardent's second Ep 12 interlude: he works out that Adaeze was filing materials assessment copies through the routine eastern district queue since 2104. He searched for intelligence operations. She ran compliance paperwork. His two corridor operatives are 40 kilometers north on the wrong road — Naila's misdirection. He is out of tools that can reach the bearer within the Compact's administrative framework without becoming visible in ways he has avoided for 18 years. Next move: unknown. | Ep 12 |
 | **Adaeze's possible murder** | Ep 3 | Open — Ep 11 did not address this. Ardent confirms he was tracking her for years but does not reveal whether his apparatus contributed to her death. Still open. Ep 12. | Ep 5 |
 | **The curated empty zone** | Ep 3 | Established Ep 4–5. | Ep 5 |
-| **Naila's debt to Adaeze** | Ep 3 | **Ep 11 update**: Naila's vehicle at Larch authorized for release to Kirin. Naila's contact at Kesmark will receive the vehicle. Partial repayment continuing. Full repayment: Ep 12. | Ep 11 |
+| **Naila's debt to Adaeze** | Ep 3 | **FULLY RESOLVED Ep 12.** Naila delivered a sealed letter Adaeze left with her in September 2125 (the explicit debt). She also disclosed she had been running four days of active misdirection against the Curator's two corridor operatives — keeping them 40km north on the wrong road. That misdirection cost her eleven-year corridor neutrality. She called it a choice, not part of the debt. Salt is now a compromised position: when the Curator's people trace the misdirection back, Naila's neutrality is gone. Ep 13: Salt is a different place. | Ep 12 |
 | **Renata's chit** | Ep 3 | Resolved Ep 6 — glyph = Okonkwo initial; Naila enrollment; why the mark was made: Ep 12. | Ep 6 |
 | **The cold-open operative** | Ep 3 | **Ep 8**: confirmed as the Curator's field operative who reported the transit. He drove west after reporting. Accounted for — still active in the Curator's network, now in a different deployment. | Ep 8 |
 | **Bex** | Ep 3 | Active — walked north after Salt; Naila sent Ep 5 operatives north (same direction); status unknown. | Ep 3 |
@@ -33,20 +33,20 @@
 | **Adaeze's three instructions** | Ep 5 | **(1) atlas to Dara, Meridian: DELIVERED Ep 7.** **(2) infrastructure report to Brigid at Sable River: IN MOTION — Ep 11 sends junction list ahead via Dara relay; sealed photograph sleeve carried by Kirin, to be delivered in person Ep 12–13; full delivery Ep 14.** **(3) DELIVERED Ep 10** — joint authentication complete. | Ep 11 |
 | **The campus and archive** | Ep 5 | Active — on Curator's active survey list. Fen's safety uncertain. **Ep 11**: relay sent to sector twelve archive node requesting formatted infrastructure survey assembly. Whether the current steward can locate the formatting templates: unknown. | Ep 11 |
 | **Dez's maintenance-grid background** | Ep 5 | Dez is in the corridor for infrastructure work. Will reappear Ep 13. | Ep 7 |
-| **Brigid Aelfgar** | Ep 2 | **Ep 11 update**: Junction list relay sent to Meridian (via second way-station morning chain) for routing to Brigid via Dara. 5-7 days to Meridian; relay time to Brigid unknown. Kirin will arrive in Sable River before the relay reaches Brigid. Full weight: Ep 14. | Ep 11 |
+| **Brigid Aelfgar** | Ep 2 | **Ep 12 update**: Dara's envelope (junction list + Rootstock Protocol active status + Dara's cipher authentication) in the Compact-side Meridian courier, arriving Sable River CapEx Board tomorrow morning (April 13). Kirin will arrive April 14 — one day after. The materials assessment is in the review queue, 3-5 business days. Brigid receives three converging pieces of documentation in a 48-hour window: the envelope, the assessment review, and Kirin in person. She has been waiting since 2122. Full weight: Ep 14. | Ep 12 |
 | **Adaeze's water management tracking** | Ep 6 | **Ep 11 update**: Sector six at 0.94%/18h. Seven other junctions with outdated condition data (8-18 months). N-4W and N-7E (northern reach) rated already-past-threshold 18 months ago. Relay-dark zone near N-4W (traffic absent 4 months). Three settlements, ~340 people, status unknown. | Ep 11 |
 | **The EQU-convertibility play** | Ep 7 | **Ep 11 update**: Veritas Structured stopped open-market queries because they found an alternative authentication avenue. A procurement inquiry is in the Free Zone commercial registry for Rootstock-compatible authentication hardware — specifically applicable to two known protocol instances. Kirin's keys are one. The other: unknown. The claim a financial firm could file is different from the Rootstock Protocol filing: the settlements would be evidence, not parties. Adaeze spent 35 years preventing exactly this configuration. | Ep 11 |
 | **The Meridian market watcher / Veritas Structured** | Ep 7 | **Ep 11 update**: They found an alternative authentication avenue. Procurement inquiry for Rootstock-compatible hardware now on record in Free Zone commercial registry. They no longer need the open market. This is a live and advancing threat. | Ep 11 |
-| **Dara's return contact commitment** | Ep 7 | **Ep 11 update**: Message sent to Dara 4 months early, from the Outside via second way-station morning chain. Contents: junction list with designations, condition status, and assessment dates; Rootstock Protocol active status. Kirin's commitment to return contact now fulfilled early. Dara will receive in 5-7 days. She will determine whether and how to route to Brigid. | Ep 11 |
+| **Dara's return contact commitment** | Ep 7 | **DELIVERED Ep 12.** Dara received the relay on April 12. She placed the junction list + Rootstock Protocol status in a prepared envelope addressed to Brigid Aelfgar and put it in the morning Compact-side courier stack before anyone told her to. The envelope is in transit, arriving April 13. Dara also received Ardent's trade flag at 1500 — after the envelope had already been sent. Her brokerage is now under enhanced customs documentation requirements. Her future operations will be slower and more visible. She has been doing this for 11 years. She is adjusting. | Ep 12 |
 | **Adaeze's sealed envelope** | Ep 8 | **DELIVERED Ep 9** — thread closed. | Ep 9 |
 | **Nnedi's Rootstock key** | Ep 8 | **RESOLVED Ep 10** — disc key now with Kirin, both keys traveling west together. | Ep 10 |
 | **Outside census count** | Ep 8 | Active — Crucita: 7.1M (June 2125). Atlas: 6.2M. Gap of 900K. **Ep 11**: Berin's archive data adds granularity: eastern sector + northern reach junctions serve 1-2M people. Eight junctions failing or past threshold. | Ep 11 |
 | **Rua** | Ep 9 | Rua remains on the plateau, managing the sector six replacement project. Gave Kirin and Berin the junction designations list and the Compact monitoring case designations before departure. Remains key contact for plateau-side operations. | Ep 11 |
 | **Berin Kosta** | Ep 8/9 | **Ep 11 update**: Traveling west with Kirin. Has archive route notes (junctions, maintenance points, population nodes) in organized form. Provided specific junction condition data for S-8N, S-8S, and the northern reach designations. Wrote a specific location note for the sector twelve archive steward to find the formatting templates. His route through the corridor: familiar from his February 2125 inbound crossing. | Ep 11 |
-| **Sector six junction — ACTIVE FAILURE** | Ep 10 | **Ep 11 update**: Pressure reading now at 0.94%/18h (up from 0.7% at Ep 10, 0.78% at intermediate, 0.87% at Ade's desk). Berin's acceleration model: failure window now 4-5 days from end of Ep 11. Growing season in five weeks. Basin agricultural plot failure will precede the growing season. **This is the Ep 12 engine.** | Ep 11 |
-| **Documentation chain for Rootstock filing** | Ep 11 | **NEW.** The formatted infrastructure survey is the missing component. Kirin has the photographs (Adaeze's sealed sleeve), Berin has the archive notes, but the protocol requires a formatted survey signed in hardware by the founding witness (the disc key). Relay sent to sector twelve archive node to begin assembly. Chain: sector twelve → relay (3 days each way) → formatted document → Meridian (Dara) → Sable River (Kirin). Timeline almost certainly after the junction failure. The photographs + junction list + authentication keys may be sufficient to begin the process even without the formatted survey. | Ep 11 |
+| **Sector six junction — FAILED** | Ep 10 | **Ep 12**: Junction S-6E confirmed failed at 0312, April 12, 2126 — on the low end of Berin's 4-5 day window. Compact monitoring flag generated automatically at 0400 — logged, unread. Larch depot also had it on the Compact monitoring feed at 0400. Outside network logged it with full designation history. Domestic water supply: 48 hours on storage. Irrigation feed: down immediately. Growing season in six weeks. The basin agricultural plot will go into the growing season with 60% of its water supply missing. The failure is now a documented event in multiple records. Materials assessment for S-6E also now in Compact review queue (Kirin's filing from Kesmark transit hub). | Ep 12 |
+| **Documentation chain for Rootstock filing** | Ep 11 | **Ep 12 update**: Three simultaneous routes now in motion — (1) Dara's envelope to Brigid Aelfgar via Compact-side Meridian courier, arriving Sable River tomorrow morning (April 13). Contains: junction list + Rootstock Protocol active status notation + Dara's cipher authentication. (2) Kirin's materials assessment filed at Kesmark transit hub under her own Board credentials, citing Compact monitoring case numbers, S-6E failure event, 27-year rating history, service population 1-2M. Review queue, 3-5 business days. (3) Formatted infrastructure survey relay: still in motion from sector twelve, assembly status unknown. Timeline: likely after Kirin arrives and after Brigid receives the envelope. Ep 13-14 territory. The photographs + junction list + authentication keys are in Kirin's hands; formal filing may proceed without the formatted survey if the protocol allows documentation of the failure event to substitute. Open question. | Ep 12 |
 | **Naila's vehicle at Larch / Kesmark contact** | Ep 11 | **NEW.** Naila authorized vehicle release to Kirin's use. Vehicle at Larch, charge sufficient for Kesmark with margin. Naila's contact at Kesmark will receive the vehicle on return (name on card from Ade, not familiar to Kirin). | Ep 11 |
-| **Relay-dark zone near N-4W** | Ep 11 | **NEW.** Monitoring relay traffic near the N-4W junction in the northern reach has been absent for approximately four months. Three settlements with combined population ~340 (2123 census) in that cluster. N-4W rated past failure threshold 18 months ago. Status of that settlement cluster: unknown. | Ep 11 |
+| **Relay-dark zone near N-4W** | Ep 11 | **Ep 12 update**: Adaeze's second letter (delivered by Naila, dated August 2125) says: "Someone in the network will have already sent someone. Trust that this has been done. Do not add it to the list of things you are managing." Kirin is trusting that. Status of the three settlements (~340 people, 2123 census) in that cluster: still unknown to the listener. Open thread — Ep 13+ or Season 2. | Ep 12 |
 
 ---
 
@@ -55,8 +55,8 @@
 ### Kirin Saleh (protagonist)
 - **Age**: Late 28 or 29
 - **Class**: Keeper
-- **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave)
-- **State**: End of Ep 11 — heading south toward transit gate with Berin Kosta, approximately 4 days from Sable River. Carries: both keys (card + disc), infrastructure photographs (sealed sleeve), junction list from Rua, Naila's contact card for Kesmark, archive route notes (Berin). Has sent the junction list relay to Meridian. Has accepted and is acting in the witness role. Walking at urgency pace.
+- **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave; compliance flag now active on her account)
+- **State**: End of Ep 12 — on the rail to Sable River, arriving in approximately 2 hours (April 14, 2126). Carries: both keys (card + disc, warm), infrastructure photographs (sealed sleeve), junction list from Rua, Adaeze's second letter (delivered by Naila, read on the rail). Has filed a formal materials assessment at Kesmark transit hub under her own credentials. Board account has a compliance flag — any submissions go to human review. She has been visited (indirectly, through Tomas) by a compliance inquiry. She has read Adaeze's second letter and understands what the whole job was.
 
 ### Adaeze Saleh née Okonkwo (deceased)
 - **Appeared on Ledger**: 2091
@@ -73,7 +73,8 @@
 
 ### Tomas
 - **Role**: Kirin's best friend since they were 14. Guild carpenter.
-- **Key detail**: His mother passed through the corridor in 2094. In 2118, Tomas himself was seen at Kesmark transit post by Adaeze. He knew. Did not approach. He has known about the corridor for years. Contact: Ep 12.
+- **State**: Ep 12 — visited that morning by a compliance inquiry (Board-adjacent, asking whether he'd heard from Kirin). He told them he hadn't, which was true at the time. Kirin called him from Kesmark and he was scared in a way she recognized as wrong. Adaeze's second letter says: "Take care of Tomas. He has known about this longer than is good for anyone to know about something. The weight is not sustainable." He knows Kirin is coming in two days.
+- **Key detail**: His mother passed through the corridor in 2094. In 2118, Tomas saw Adaeze at Kesmark transit post and did not approach. He has known about the corridor for years. The weight of that knowledge is now visible.
 
 ### Brigid Aelfgar
 - **Role**: Kirin's supervisor at the CapEx Board. Founder-class assessor.
@@ -90,7 +91,7 @@
 
 ### Naila Brace
 - **Role**: Keeper of Salt. Former Free Zone medic.
-- **State**: At Salt. Vehicle at Larch authorized for release. Contact at Kesmark designated to receive the vehicle on return. Debt to Adaeze: partially repaid through Ep 5 misdirection; Ep 11 vehicle release is continued repayment. Full repayment: Ep 12.
+- **State**: Ep 12 — debt to Adaeze FULLY RESOLVED. Delivered Adaeze's second letter (sealed, August 2125). Has been running 4 days of active misdirection against the Curator's two corridor operatives — keeping them 40km north on the wrong road. This cost her eleven-year corridor neutrality. The Curator's people will trace the misdirection back. Salt is now a compromised node. Naila called it a choice, not a debt payment. Her future: uncertain. Ep 13: Salt will be different.
 
 ### Dez
 - **Role**: Working operator in the corridor. Sells passage and information.
@@ -103,11 +104,10 @@
 ### **Ardent (The Curator)**
 - **Role**: Antagonist faction lead. Compact internal-security.
 - **Age**: Fifties or older (18 years in the role).
-- **Background**: Has managed the Outside suppression for 18 years. Tracked the Okonkwo-line for 12 years without finding the key. His cover is a standard-seeming Compact administrative desk; the secondary comm interface runs under a CapEx processing terminal's skin.
+- **Background**: Has managed the Outside suppression for 18 years. Tracked the Okonkwo-line for 12 years without finding the key.
 - **Speech patterns**: Controlled, precise, economical. Internal logic delivered as declarative statements. Does not perform authority. Does not reassure subordinates. Questions are questions; statements are conclusions.
-- **Psychology**: Principled. Believes he is protecting 4.2 billion people from the destabilizing consequence of a Ledger-external claim. His error: he is managing the acknowledgment of the Outside rather than its reality. The junctions fail whether or not the Compact knows. He has confused the two.
-- **Current tactic**: Watching the Meridian broker. Did not apply pressure in Ep 11 — chose to let the junction failure arrive before the filing, believing this weakens the obligation structure. Will need to escalate if the documentation chain moves faster than he expects.
-- **Ep 11 state**: Has the relay shadow of the morning-chain message from the second way-station to Meridian. Is monitoring broker traffic. Has not moved against Dara yet.
+- **Psychology**: Principled. Believes he is protecting 4.2 billion people from the destabilizing consequence of a Ledger-external claim. His error: he is managing the acknowledgment of the Outside rather than its reality. The junctions fail whether or not the Compact knows.
+- **Ep 12 state**: Has now moved against people for the first time in 18 years. Filed trade flag on Dara (too late — she'd already sent the envelope). Filed compliance flag on Kirin (backfired — created a human reviewer for her materials assessment). Naila's misdirection has his two corridor operatives 40km in the wrong direction. His Ep 12 realization: Adaeze was filing materials assessment copies through the routine eastern district queue since 2104. He searched for operations. She ran paperwork. He is now out of tools that can reach the bearer without becoming visible in ways he has avoided for 18 years. Next move: must escalate beyond administrative tools or accept the outcome. Ep 13-14 territory.
 
 ### **Kel**
 - **Role**: Ardent's desk operative in the internal-security room.
@@ -173,17 +173,17 @@
 
 ## World State
 
-- **Year**: 2126 (early April — approximately day 5-6 of the return journey)
-- **Setting**: Kirin and Berin heading south toward the transit gate. Route: gate → corridor → Larch depot (vehicle) → Kesmark → rail → Sable River. Target: Sable River in 4 days.
+- **Year**: 2126 (April 14 — Kirin arriving in Sable River today)
+- **Setting**: Kirin and Berin on the rail to Sable River, arriving in ~2 hours.
 - **Key world details** (updated):
-  - Sector six junction: **0.94%/18h pressure drop.** Failure window: **4-5 days from episode end.** The junction will fail approximately when Kirin arrives in Sable River, or before.
-  - Seven other junctions in comparable or worse condition. N-4W and N-7E (northern reach): rated past failure threshold 18 months ago. Status of northern reach settlement cluster: unknown (relay dark 4 months).
-  - Documentation chain: relay to sector twelve in motion (3 days out, assembly time unknown, 3 days back). Will not arrive in Sable River before the junction failure.
-  - Junction list relay: in Meridian chain (5-7 days). Will arrive after Kirin.
-  - Ardent: watching the Meridian broker, not moving yet.
-  - Veritas Structured: procurement inquiry for Rootstock-compatible hardware active in Free Zone registry. Alternative authentication avenue found — source unknown.
-  - Kirin carries: both keys (warm, active), sealed photograph sleeve (infrastructure report), junction designations list, Naila's Kesmark contact card, depleted comm (still depleted).
-  - Berin carries: archive route notes, knowledge of the corridor from February 2125 crossing.
+  - Sector six junction: **FAILED.** April 12, 0312. Compact monitoring flag generated automatically, unread. Outside network logged with full designation history. Irrigation feed down. Domestic water on storage (48 hours from failure). Materials assessment now in Compact review queue.
+  - Seven other junctions in comparable or worse condition. N-4W status: unknown (relay dark, Adaeze's letter says someone has been sent by the network).
+  - Documentation chain: (1) Dara's Brigid envelope: in Compact-side courier, arriving Sable River April 13. (2) Materials assessment: Compact review queue, 3-5 business days. (3) Formatted survey relay: assembly in progress at sector twelve, timeline unknown — will not arrive before Ep 14.
+  - Ardent: has applied administrative flags but is now out of tools he can use without becoming visible. Two corridor operatives 40km north on the wrong road.
+  - Naila's neutrality: blown. Salt is a compromised node.
+  - Veritas Structured: procurement inquiry for Rootstock-compatible hardware still active in Free Zone registry. Source of hardware: still unknown.
+  - Kirin carries: both keys (warm, active), sealed photograph sleeve (infrastructure report), junction designations list, Adaeze's second letter (read), assessment submission confirmation.
+  - Berin carries: archive route notes. Returning to the Compact for the first time in 15 months.
 
 ---
 
@@ -204,20 +204,23 @@
 | **The Curator** | Ep 3 | **ON SCREEN Ep 11**. Named: Ardent. Watching broker, not bearer. |
 | **The curated empty zone** | Ep 3 | Delivered Ep 4 |
 | **Adaeze's September 2125 trip** | Ep 3 | Delivered Ep 6 |
-| **Adaeze's possible murder** | Ep 3 | Still open. Ep 12. |
-| **Naila's debt to Adaeze** | Ep 3 | Partially Ep 5; vehicle release Ep 11; fully Ep 12 |
+| **Adaeze's possible murder** | Ep 3 | Still open. Ep 13-14. |
+| **Naila's debt to Adaeze** | Ep 3 | **FULLY DELIVERED Ep 12** — letter + active misdirection + neutrality blown. |
 | **Renata's chit** | Ep 3 | **Delivered Ep 6** |
 | **The operative's partner** | Ep 4 | **Delivered Ep 6 Turn** |
-| **The missing carrier** | Ep 4 | **DELIVERED Ep 8** — Berin Kosta, now traveling west with Kirin Ep 11 |
+| **The missing carrier** | Ep 4 | **DELIVERED Ep 8** — Berin Kosta, traveling with Kirin. |
 | **Adaeze's three instructions** | Ep 5 | (1) **DELIVERED Ep 7**; (2) relay in motion Ep 11, in-person delivery Ep 14; (3) **DELIVERED Ep 10** |
-| **Tomas knows about the corridor** | Ep 5/7 | He knew since at least 2118. Contact: Ep 12 |
-| **EQU-convertibility play** | Ep 7 | **Ep 11**: Veritas Structured found alternative avenue. Active threat. |
+| **Tomas knows about the corridor** | Ep 5/7 | **Ep 12**: Contact made. He's scared. Compliance inquiry to his workshop. Full resolution Ep 14. |
+| **EQU-convertibility play** | Ep 7 | Veritas Structured procurement inquiry still active. Source unknown. Ep 13+. |
 | **Adaeze's sealed envelope** | Ep 8 | **DELIVERED Ep 9** |
 | **Nnedi's Rootstock key** | Ep 8 | **DELIVERED Ep 10** |
 | **"Let what happens happen"** | Ep 9 | **DELIVERED Ep 10** |
-| **Sector six junction — active failure** | Ep 10 | **4-5 days from Ep 11 end.** Will fail approximately when Kirin arrives in Sable River. Ep 12. |
-| **Veda's objection** | Ep 10 | Unresolved. Ep 12. |
-| **The Curator on screen** | Ep 11 | Delivered: Ardent, name confirmed, tactic revealed (watching documentation chain). |
-| **Documentation chain** | Ep 11 | Assembly relay sent to sector twelve. Will arrive after junction failure. Filing after crisis is the likely timeline. |
-| **Relay-dark zone near N-4W** | Ep 11 | Status of northern reach settlement cluster unknown. Open. Ep 12+. |
-| **Veritas Structured's alternative avenue** | Ep 11 | Source of alternative authentication hardware: unknown. Ep 12. |
+| **Sector six junction — active failure** | Ep 10 | **DELIVERED Ep 12.** Failed April 12, 0312. Documented event. |
+| **Veda's objection** | Ep 10 | Unresolved. Ep 14. |
+| **The Curator on screen** | Ep 11 | **Ep 12**: Made first moves against people. Both backfired. Out of administrative reach. |
+| **Documentation chain** | Ep 11 | **Ep 12**: Three routes in motion. Formatted survey still assembling. Ep 13-14. |
+| **Relay-dark zone near N-4W** | Ep 11 | Adaeze's letter says someone was sent. Kirin trusting that. Open. Ep 13+ / Season 2. |
+| **Veritas Structured's alternative avenue** | Ep 11 | Source still unknown. Still active. Ep 13+. |
+| **Naila's neutrality blown** | Ep 12 | **NEW.** Salt is a different place. Ep 13: way-station Kirin can no longer walk into freely. |
+| **Brigid: three-source convergence** | Ep 12 | **NEW.** Dara's envelope April 13; assessment in review queue; Kirin in person April 14. Ep 14. |
+| **Adaeze's second letter** | Ep 12 | **DELIVERED Ep 12** — Naila held it. Kirin read it on the rail. Contents included: trust the relay chain; give Brigid what you have; take care of Tomas. |

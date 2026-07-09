@@ -1,0 +1,37 @@
+{
+  "episode": 12,
+  "season": 1,
+  "title": "Salt Owed",
+  "series": "the-future-economy",
+  "timeline": "April 2126",
+  "pov_character": "Kirin Saleh (primary); Dara (cold open); Ardent (two interludes)",
+  "word_count": 7151,
+  "summary": "Five days after Kirin's relay from the second way-station, Dara in Meridian sends the population atlas junction package to Brigid Aelfgar before anyone told her to. Kirin and Berin walk south through the managed corridor, receive a relay post message confirming S-6E has failed at 0312, and push to cover the remaining distance faster. At Larch depot, Yusra hands over Naila's vehicle and discloses that Larch has twelve years of its own documentation in the Compact's own filing system. At Salt, Naila delivers a sealed letter Adaeze left in September 2125 — and discloses she has spent four days running active misdirection against the Curator's corridor operatives, blowing her eleven-year neutrality to keep Kirin's route clear. Ardent, having learned Dara sent something to a Sable River Board address, applies a trade flag to her brokerage and a compliance review flag to Kirin's Board account. At Kesmark, Kirin calls Tomas and finds him already visited by a compliance inquiry. She and Berin file a formal materials assessment through the Compact's transit hub system, using her Board credentials — the compliance flag Ardent created puts a human reviewer on the assessment rather than routing it automatically, which is exactly what she needed. On the rail to Sable River, Kirin reads Adaeze's letter.",
+  "characters_appearing": [
+    "Kirin Saleh",
+    "Berin Kosta",
+    "Dara",
+    "Ardent",
+    "Kel",
+    "Naila Brace",
+    "Yusra",
+    "Tomas"
+  ],
+  "new_characters_introduced": [],
+  "locations": [
+    "Meridian (second-floor office above the dyers' lane)",
+    "Managed sector corridor (between second way-station and Larch)",
+    "Larch depot",
+    "Salt (way-station)",
+    "Kesmark transit hub",
+    "Rail to Sable River"
+  ],
+  "themes": [
+    "debt and repayment",
+    "bureaucracy as a tool for both suppression and circumvention",
+    "the weight of knowing something for too long",
+    "what the whole job actually is"
+  ],
+  "continuity_notes": "Sector six junction has failed as of 0312, April 12, 2126. Naila's neutrality is blown — the Curator's people will trace the misdirection back to Salt, changing what Salt is in Ep 13. Ardent has filed a compliance flag on Kirin's Board account and a trade flag on Dara's brokerage — Dara had already sent the envelope before the flag landed. The formal materials assessment is now in the Compact's review queue; reviewer assigned; 3-5 business days. Tomas has been visited by a compliance inquiry and knows something is wrong. Kirin has read Adaeze's second letter (delivered by Naila): three key contents — trust the relay chain and the people along it; give Brigid what you have and don't tell her what to do; take care of Tomas. Kirin is on the rail, arriving Sable River in two hours. Berin is with her. Both keys warm, protocol active. Documentation chain status: (1) Dara's envelope to Brigid in courier system, arriving tomorrow morning; (2) materials assessment in Compact review queue, 3-5 day window; (3) formatted survey relay still assembling at sector twelve, timeline unknown. The N-4W settlement cluster remains relay-dark — Adaeze's letter says someone has been sent; Kirin is trusting that.",
+  "written_at": "2026-07-09"
+}
