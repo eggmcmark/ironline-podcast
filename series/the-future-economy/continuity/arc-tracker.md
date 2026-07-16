@@ -1,8 +1,8 @@
-# Arc Tracker — The Future Economy (v14)
+# Arc Tracker — The Future Economy (v15)
 
 *Updated after each episode.*
 
-*Status: Episodes 1–12 published. Ep 12 ("Salt Owed") written 2026-07-09.*
+*Status: Episodes 1–13 published. Ep 13 ("The Empty Way Back") written 2026-07-16.*
 
 ---
 
@@ -15,24 +15,24 @@
 | The coordinates (400 miles east) | Ep 1 | Delivered Ep 5. | Ep 5 |
 | Unreadable letters / Tamsat | Ep 1/2 | **DELIVERED Ep 8** — all 12 letters complete. All formal/administrative, no personal address until the last letter's final paragraph (first bearer named, not successor). Key finding: the appointment was made to the key, not the person. Whoever holds the key holds the appointment. No revocation mechanism exists in the text. "The key will find its own way. Your task is only to hold it long enough for that to happen." | Ep 8 |
 | The photograph (Adaeze young, unknown building, unknown child) | Ep 1 | **DELIVERED Ep 10** — Child was Nnedi Eze, seven years old in the 2067 photograph. Building identified, Eme confirmed original mortar seam. Thread closed. | Ep 10 |
-| Hasse saw one of these keys before, 40 years ago | Ep 1 | Background — potential antagonist origin thread. Likely Hasse saw a key in the corridor in the 2080s, possibly connected to Adaeze's period of active transit. Ep 12+. | Ep 1 |
+| Hasse saw one of these keys before, 40 years ago | Ep 1 | **SUBSTANTIALLY DELIVERED Ep 13.** In 2083, a walk-in claimant brought a founding-precursor prototype token to the Board and left it with Hasse while they went elsewhere. The claimant never came back. Hasse took the token to Perun. The intake record is in the pre-Compact binders: March 17, 2083, *Claimant did not return.* The third token is a prototype with no appointment, insufficient for the filing, held by Perun. The claimant was likely stopped by Ardent's predecessor's apparatus — Hasse's working assumption, never confirmed. Thread closed on the key origin; prior-bearer suppression remains a background question. | Ep 13 |
 | Perun was a Rootstock witness himself | Ep 2 | **RESOLVED Ep 8** — translation complete, all 12 letters. His work is done. May be relevant again if the appointment's origins need deeper research (Ep 12+). | Ep 8 |
 | Efe and the unknown song | Ep 2 | Resolved Ep 5. | Ep 5 |
 | Amira's backchannel | Ep 2 | **Both comms used** — first Ep 6 (partial translation), second Ep 8 (full translation). Both charge cells depleted. Backchannel circuit is closed. | Ep 8 |
-| **The Curator / Ardent** | Ep 3 | **Ep 12 update**: Has now moved against people for the first time in 18 years. Filed a trade flag on Dara's brokerage (enhanced customs documentation, slow her future operations). Filed a compliance flag on Kirin's Board account (mandatory human review on any submissions). The trade flag landed after Dara had already sent the Brigid envelope — five days too late. The compliance flag created a human reviewer for Kirin's materials assessment — the exact opposite of what he intended. Ardent's second Ep 12 interlude: he works out that Adaeze was filing materials assessment copies through the routine eastern district queue since 2104. He searched for intelligence operations. She ran compliance paperwork. His two corridor operatives are 40 kilometers north on the wrong road — Naila's misdirection. He is out of tools that can reach the bearer within the Compact's administrative framework without becoming visible in ways he has avoided for 18 years. Next move: unknown. | Ep 12 |
-| **Adaeze's possible murder** | Ep 3 | Open — Ep 11 did not address this. Ardent confirms he was tracking her for years but does not reveal whether his apparatus contributed to her death. Still open. Ep 12. | Ep 5 |
+| **The Curator / Ardent** | Ep 3 | **Ep 13 update**: Considered applying physical surveillance to a Compact citizen (Kirin, in Sable River) and decided not to — a line he chose not to cross. Opened the Sable River contact list and closed it without selecting anyone. His reasoning: once his apparatus applies physical surveillance to a Compact citizen on Compact soil, he is no longer the apparatus he built. He also reviewed the Adaeze Okonkwo death question internally: found no evidence his apparatus contributed to her death. Chose not to investigate further. He is out of administrative tools and sitting with the question of what he is managing toward — whether the thing he has been protecting for 18 years is still the thing he thought it was. **Ep 14 territory**: he has no remaining levers inside his current authority. What he decides to do next (whether to escalate beyond those limits, and at what cost) is the last beat of his arc in Season 1. | Ep 13 |
+| **Adaeze's possible murder** | Ep 3 | **Ep 13 update**: Ardent reviewed internally — medical record shows advanced cardiac failure, consistent with age and two-year health trajectory. No evidence his apparatus directly contributed. He chose not to investigate further. The question remains open as a narrative question (surveillance stress is not zero even when not intentional), but Ardent has closed the file on his own account. Ep 14 may or may not reopen. | Ep 13 |
 | **The curated empty zone** | Ep 3 | Established Ep 4–5. | Ep 5 |
 | **Naila's debt to Adaeze** | Ep 3 | **FULLY RESOLVED Ep 12.** Naila delivered a sealed letter Adaeze left with her in September 2125 (the explicit debt). She also disclosed she had been running four days of active misdirection against the Curator's two corridor operatives — keeping them 40km north on the wrong road. That misdirection cost her eleven-year corridor neutrality. She called it a choice, not part of the debt. Salt is now a compromised position: when the Curator's people trace the misdirection back, Naila's neutrality is gone. Ep 13: Salt is a different place. | Ep 12 |
 | **Renata's chit** | Ep 3 | Resolved Ep 6 — glyph = Okonkwo initial; Naila enrollment; why the mark was made: Ep 12. | Ep 6 |
 | **The cold-open operative** | Ep 3 | **Ep 8**: confirmed as the Curator's field operative who reported the transit. He drove west after reporting. Accounted for — still active in the Curator's network, now in a different deployment. | Ep 8 |
 | **Bex** | Ep 3 | Active — walked north after Salt; Naila sent Ep 5 operatives north (same direction); status unknown. | Ep 3 |
 | **Yusra at Larch depot** | Ep 4 | **Ep 11 update**: Naila's vehicle is at Larch, authorization confirmed. Kirin and Berin en route to Larch to claim it. Yusra's role in handoff TBD. | Ep 11 |
-| **Tomas's salt instruction / corridor knowledge** | Ep 3/5 | **New depth Ep 7** — 2118 log entry: Tomas saw Adaeze at Kesmark transit post, did not approach. He knew. His mother passed through the corridor in 2094. His corridor knowledge predates the journey by at least eight years. Build toward Ep 12 contact. | Ep 7 |
+| **Tomas's corridor knowledge** | Ep 3/5 | **DELIVERED Ep 13.** Tomas told Kirin the full story at the workshop: mother's 2094 corridor transit, 2118 Kesmark sighting of Adaeze, her finding him that evening and saying "that is the right amount to know." Full briefing from Kirin tonight. The weight is being put down. | Ep 13 |
 | **The partial auth chip (Yusra's)** | Ep 4 | Background — Yusra has partial directional address. Open variable. | Ep 4 |
 | **The one carrier missing east** | Ep 4 | **RESOLVED Ep 8** — Berin Kosta, admitted to the Outside February 2125. Now traveling west with Kirin. | Ep 11 |
 | **Adaeze's three instructions** | Ep 5 | **(1) atlas to Dara, Meridian: DELIVERED Ep 7.** **(2) infrastructure report to Brigid at Sable River: IN MOTION — Ep 11 sends junction list ahead via Dara relay; sealed photograph sleeve carried by Kirin, to be delivered in person Ep 12–13; full delivery Ep 14.** **(3) DELIVERED Ep 10** — joint authentication complete. | Ep 11 |
 | **The campus and archive** | Ep 5 | Active — on Curator's active survey list. Fen's safety uncertain. **Ep 11**: relay sent to sector twelve archive node requesting formatted infrastructure survey assembly. Whether the current steward can locate the formatting templates: unknown. | Ep 11 |
-| **Dez's maintenance-grid background** | Ep 5 | Dez is in the corridor for infrastructure work. Will reappear Ep 13. | Ep 7 |
+| **Dez's maintenance-grid background** | Ep 5 | **DELIVERED Ep 13.** Dez arrived in Sable River independently via the corridor network's northwest vehicle cache, before Kirin's rail. She has been at the CapEx Board's intake desk since 7:15am with independent infrastructure documentation from two years of corridor water management monitoring. She is in tomorrow's Brigid meeting. She confirmed: the other Rootstock-compatible token (Veritas Structured's alternative avenue) did not move through the corridor in her eight years of corridor work. Its origin remains unknown. | Ep 13 |
 | **Brigid Aelfgar** | Ep 2 | **Ep 12 update**: Dara's envelope (junction list + Rootstock Protocol active status + Dara's cipher authentication) in the Compact-side Meridian courier, arriving Sable River CapEx Board tomorrow morning (April 13). Kirin will arrive April 14 — one day after. The materials assessment is in the review queue, 3-5 business days. Brigid receives three converging pieces of documentation in a 48-hour window: the envelope, the assessment review, and Kirin in person. She has been waiting since 2122. Full weight: Ep 14. | Ep 12 |
 | **Adaeze's water management tracking** | Ep 6 | **Ep 11 update**: Sector six at 0.94%/18h. Seven other junctions with outdated condition data (8-18 months). N-4W and N-7E (northern reach) rated already-past-threshold 18 months ago. Relay-dark zone near N-4W (traffic absent 4 months). Three settlements, ~340 people, status unknown. | Ep 11 |
 | **The EQU-convertibility play** | Ep 7 | **Ep 11 update**: Veritas Structured stopped open-market queries because they found an alternative authentication avenue. A procurement inquiry is in the Free Zone commercial registry for Rootstock-compatible authentication hardware — specifically applicable to two known protocol instances. Kirin's keys are one. The other: unknown. The claim a financial firm could file is different from the Rootstock Protocol filing: the settlements would be evidence, not parties. Adaeze spent 35 years preventing exactly this configuration. | Ep 11 |
@@ -55,8 +55,8 @@
 ### Kirin Saleh (protagonist)
 - **Age**: Late 28 or 29
 - **Class**: Keeper
-- **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave; compliance flag now active on her account)
-- **State**: End of Ep 12 — on the rail to Sable River, arriving in approximately 2 hours (April 14, 2126). Carries: both keys (card + disc, warm), infrastructure photographs (sealed sleeve), junction list from Rua, Adaeze's second letter (delivered by Naila, read on the rail). Has filed a formal materials assessment at Kesmark transit hub under her own credentials. Board account has a compliance flag — any submissions go to human review. She has been visited (indirectly, through Tomas) by a compliance inquiry. She has read Adaeze's second letter and understands what the whole job was.
+- **Occupation**: Materials analyst, Level Two, Sable River CapEx Board (on leave; compliance flag active on her account)
+- **State**: End of Ep 13 — in Sable River, April 14, 2126. Has been to Tomas (full briefing tonight at her flat). Has spoken with Dez (in tomorrow's Brigid meeting). Has spoken with Hasse (heard the 2083 story; found the intake record). Has visited Adaeze's apartment. Brigid meeting: tomorrow morning, April 15, 9:00, third floor. Carries: both keys (warm), sealed photograph sleeve, junction list from Rua, assessment submission confirmation, Adaeze's second letter.
 
 ### Adaeze Saleh née Okonkwo (deceased)
 - **Appeared on Ledger**: 2091
@@ -73,8 +73,8 @@
 
 ### Tomas
 - **Role**: Kirin's best friend since they were 14. Guild carpenter.
-- **State**: Ep 12 — visited that morning by a compliance inquiry (Board-adjacent, asking whether he'd heard from Kirin). He told them he hadn't, which was true at the time. Kirin called him from Kesmark and he was scared in a way she recognized as wrong. Adaeze's second letter says: "Take care of Tomas. He has known about this longer than is good for anyone to know about something. The weight is not sustainable." He knows Kirin is coming in two days.
-- **Key detail**: His mother passed through the corridor in 2094. In 2118, Tomas saw Adaeze at Kesmark transit post and did not approach. He has known about the corridor for years. The weight of that knowledge is now visible.
+- **State**: Ep 13 — compliance inquiry visited his workshop twice (April 13 morning, April 14 morning). He told them what was true at each moment; he does not lie well and chose not to try. Full briefing from Kirin tonight (April 14, 7pm) at her flat. The weight has been named. He can put it down.
+- **Key detail**: His mother passed through the corridor in 2094. He saw Adaeze at Kesmark in 2118. He has been carrying this knowledge for twenty-two years without being able to share it. Now Kirin knows. The weight becomes shareable.
 
 ### Brigid Aelfgar
 - **Role**: Kirin's supervisor at the CapEx Board. Founder-class assessor.
@@ -94,8 +94,8 @@
 - **State**: Ep 12 — debt to Adaeze FULLY RESOLVED. Delivered Adaeze's second letter (sealed, August 2125). Has been running 4 days of active misdirection against the Curator's two corridor operatives — keeping them 40km north on the wrong road. This cost her eleven-year corridor neutrality. The Curator's people will trace the misdirection back. Salt is now a compromised node. Naila called it a choice, not a debt payment. Her future: uncertain. Ep 13: Salt will be different.
 
 ### Dez
-- **Role**: Working operator in the corridor. Sells passage and information.
-- **State**: In the corridor for infrastructure work. Will reappear Ep 13 (the road back).
+- **Role**: Working operator in the corridor. Sells passage and information. Independent water management monitor.
+- **State**: Ep 13 — arrived in Sable River via corridor network northwest vehicle cache before Kirin's rail. Has been at the CapEx Board intake since 7:15am. Has two years of independent infrastructure monitoring documentation on the sector six junction and adjacent network — different methodology and origin from the Outside relay network. In tomorrow's Brigid meeting as third-source corroboration. Confirmed the Veritas Structured alternative authentication token did not pass through the corridor in her eight years of corridor work.
 
 ### Bex
 - **Role**: Curator operative planted at Salt.
@@ -107,7 +107,7 @@
 - **Background**: Has managed the Outside suppression for 18 years. Tracked the Okonkwo-line for 12 years without finding the key.
 - **Speech patterns**: Controlled, precise, economical. Internal logic delivered as declarative statements. Does not perform authority. Does not reassure subordinates. Questions are questions; statements are conclusions.
 - **Psychology**: Principled. Believes he is protecting 4.2 billion people from the destabilizing consequence of a Ledger-external claim. His error: he is managing the acknowledgment of the Outside rather than its reality. The junctions fail whether or not the Compact knows.
-- **Ep 12 state**: Has now moved against people for the first time in 18 years. Filed trade flag on Dara (too late — she'd already sent the envelope). Filed compliance flag on Kirin (backfired — created a human reviewer for her materials assessment). Naila's misdirection has his two corridor operatives 40km in the wrong direction. His Ep 12 realization: Adaeze was filing materials assessment copies through the routine eastern district queue since 2104. He searched for operations. She ran paperwork. He is now out of tools that can reach the bearer without becoming visible in ways he has avoided for 18 years. Next move: must escalate beyond administrative tools or accept the outcome. Ep 13-14 territory.
+- **Ep 13 state**: Considered applying physical surveillance to a Compact citizen on Compact soil — opened the Sable River contact list and closed it without selecting anyone. A line he chose not to cross: once his apparatus does that, it is no longer the apparatus he built. Reviewed the Adaeze Okonkwo death question internally; found no evidence his apparatus contributed; chose not to investigate further. He has no remaining administrative tools. He is sitting with the question of what he is managing toward and whether the thing he has been protecting is still what he thought it was. **Ep 14**: must decide whether to accept the outcome, escalate beyond his current authority, or find a third path no one has yet identified.
 
 ### **Kel**
 - **Role**: Ardent's desk operative in the internal-security room.
@@ -143,8 +143,8 @@
 - **State**: Sent two overnight relays: (1) junction list to Meridian (for Dara/Brigid); (2) location note for sector twelve archive (for documentation assembly). Monitoring sector six junction updates. Is logging all junction condition data with Compact monitoring designations for the record.
 
 ### Berin Kosta
-- **Role**: Compact-origin carrier, now traveling west with Kirin.
-- **State**: Traveling south toward transit gate. Carries archive route notes. Wrote location note for sector twelve steward re: formatting templates. Has not been back in the Compact since February 2125 — fifteen months out. First time returning.
+- **Role**: Compact-origin carrier, now back in Sable River.
+- **State**: Ep 13 — filed transit authority clearance and Board reinstatement request. Queue confirmation, two to three days. No active credentials. In tomorrow's Brigid meeting (April 15, 9am) to present the archive documentation in person. Staying at Compact commons housing overnight (transit documentation sufficient). First time back in the Compact in fifteen months.
 
 ### Lupe
 - **Role**: Resource governance coordinator, second way-station settlement.
