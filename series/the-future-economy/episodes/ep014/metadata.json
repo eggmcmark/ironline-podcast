@@ -1,0 +1,43 @@
+{
+  "episode": 14,
+  "season": 1,
+  "title": "Assessment Day",
+  "series": "the-future-economy",
+  "timeline": "April 15, 2126",
+  "pov_character": "Ensemble — Brigid Aelfgar (cold open), Kirin Saleh (primary), Dez, Berin Kosta, Ardent (interlude), Naila Brace (interlude), Rua (interlude)",
+  "word_count": 7765,
+  "summary": "April 15, 2126. Brigid Aelfgar has been awake since before dawn, having read the Meridian envelope all day Monday; she goes to the meeting having already decided. In the third-floor room at nine o'clock, Kirin walks Brigid, Dez, and Berin through everything she found — in order, without shorthand. Brigid initiates a formal emergency infrastructure assessment covering all eleven junction designations and contacts the Commons Council's emergency division. Ardent, watching from his windowless room, receives the routing notification and understands that he modeled Brigid as a relay point when she was an endpoint — the third time in eighteen years his frame was wrong. He begins writing a working document he is not yet ready to file. Naila, at Salt, receives word that the Curator's network has traced her misdirection back; she adapts. Dez stays in Sable River. That afternoon Kirin goes to the Territorial Archive: Perun has a relay from the sector twelve steward confirming the formatted survey is complete, and he has been qualified to receive the Rootstock Protocol filing for thirty-six years. He will prepare it overnight. Kirin finds a final note in Adaeze's work-table drawer — two sentences, addressed to her. That evening Tomas comes to the flat; he tells Kirin that his mother used to hum the same song Adaeze sang. On the plateau, Rua receives the relay about the filing and goes back to directing the bypass crew. The season ends on Kirin making Adaeze's tea, the sound of the kettle, and a door opening across the street in a building where someone has just decided what to do.",
+  "characters_appearing": [
+    "Kirin Saleh",
+    "Brigid Aelfgar",
+    "Dez",
+    "Berin Kosta",
+    "Ardent",
+    "Kel",
+    "Naila Brace",
+    "Perun",
+    "Tomas",
+    "Rua",
+    "Eme"
+  ],
+  "new_characters_introduced": [],
+  "locations": [
+    "Sable River — Brigid's apartment",
+    "Sable River — CapEx Board, third-floor meeting room",
+    "Sable River — Ardent's internal-security room",
+    "Salt (corridor way-station)",
+    "Sable River — Territorial Archive",
+    "Sable River — Adaeze's apartment",
+    "Sable River — Kirin's flat",
+    "The plateau — western slope drainage channel"
+  ],
+  "themes": [
+    "delivery as the end of the journey, not its validation",
+    "the difference between making a decision and making it official",
+    "what is managed versus what is real",
+    "inherited knowledge, inherited song",
+    "presence without resolution"
+  ],
+  "continuity_notes": "Brigid has initiated the formal emergency infrastructure assessment under Protocol 7(c), covering all eleven junction designations. The Commons Council's emergency infrastructure division has been notified of S-6E failure. Perun is filing the Rootstock Protocol submission tomorrow morning (April 16) — both keys, witness testimony, formatted survey from sector twelve. Routes to ASC pre-Compact protocol office. Ardent has closed his routing board and begun a working document he is not yet filing. Naila's misdirection has been traced back; Salt's neutrality is fully blown. Dez is staying in Sable River temporarily. Tomas has been fully briefed (the full account, April 14 evening). Kirin found a final note in Adaeze's work-table drawer: 'There is nothing else hidden. You have found all of it.' Kirin's compliance flag still active — status pending Brigid's assessment process. Berin's Board reinstatement in queue, 2-3 days. Season 1 is complete. The season ends open: the Rootstock filing is initiated but not processed; the assessment has started but not concluded; the junction replacement on the plateau has margin but not confirmation. Season 2 territory: the response, the crew, the build.",
+  "written_at": "2026-07-23"
+}
