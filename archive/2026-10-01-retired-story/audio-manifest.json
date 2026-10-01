@@ -1,0 +1,52 @@
+[
+  {
+    "PreservedPath": "audio\\the-future-economy-ep001-v2.mp3",
+    "Bytes": 45992663,
+    "SHA256": "07DB3677992168CEA80AD783739C47AC2AD3A4DBA294FBD07C4C091688BC432E"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy-ep001.mp3",
+    "Bytes": 45992663,
+    "SHA256": "07DB3677992168CEA80AD783739C47AC2AD3A4DBA294FBD07C4C091688BC432E"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy-ep002.mp3",
+    "Bytes": 52927068,
+    "SHA256": "EEE45E1D19B0283A28A24F92268DE1603CA2ABCBA7A9B9F0354CE778B24DB7B2"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy-ep003-v2.mp3",
+    "Bytes": 43519137,
+    "SHA256": "D1A2C529346AC6B49AB690D57A901055B285DFCF0845A0080EF39738F7F0D8DC"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy-ep003.mp3",
+    "Bytes": 45426331,
+    "SHA256": "338C2D807019A8DD8A716011C581A02F51A378EE4A9190AD10238FBE6B596A73"
+  },
+  {
+    "PreservedPath": "audio\\trailer.mp3",
+    "Bytes": 74022,
+    "SHA256": "127657DE892F50A80E92DA1FDBADE6BC23DF9942C7D0939EE6D4032A55609058"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy\\2026-04-03_ep001.mp3",
+    "Bytes": 45992663,
+    "SHA256": "07DB3677992168CEA80AD783739C47AC2AD3A4DBA294FBD07C4C091688BC432E"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy\\2026-04-09_ep002.mp3",
+    "Bytes": 52927068,
+    "SHA256": "EEE45E1D19B0283A28A24F92268DE1603CA2ABCBA7A9B9F0354CE778B24DB7B2"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy\\2026-04-19_ep003.mp3",
+    "Bytes": 45426331,
+    "SHA256": "338C2D807019A8DD8A716011C581A02F51A378EE4A9190AD10238FBE6B596A73"
+  },
+  {
+    "PreservedPath": "audio\\the-future-economy\\2026-05-04_ep003.mp3",
+    "Bytes": 43519137,
+    "SHA256": "D1A2C529346AC6B49AB690D57A901055B285DFCF0845A0080EF39738F7F0D8DC"
+  }
+]

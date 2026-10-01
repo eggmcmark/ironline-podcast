@@ -1,0 +1,102 @@
+[
+  {
+    "OriginalPath": "series\\the-future-economy\\outline.md",
+    "SHA256": "CB220C3729ECD55DD5255441303157D0B0173C5179F0252908D0EF3D3C8DD640"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\series-config.yaml",
+    "SHA256": "F11FFEAECDDBD37FC1C3B6239C1B5EF12C8F933FC4DD3EC6A368555EF912BB36"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\story-bible.md",
+    "SHA256": "081A570E4D5580146BD6D43890E4E7E36DC519968EFDA76314F304537AC7DEC4"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\characters\\README.md",
+    "SHA256": "5C3E39BA191819D526D0B8DE6D078F28E90C3750EEF62B930EC10C951C73E767"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\continuity\\arc-tracker.md",
+    "SHA256": "2B09CF3DCBB69482622E0B434E58650C69AFA57BDCDA8E6956CB9027B4DE3FF8"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\continuity\\episode-log.md",
+    "SHA256": "97F68DE7751C95953DB623260CC73CDC11D301C3E86B81398C39D8131C8EE77A"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep001\\audio-metadata.json",
+    "SHA256": "36D8BB8AF1B4CE995E3B6ADE9D976771ABE36A2C37D4D02FE96FB398F00A9C9E"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep001\\metadata.json",
+    "SHA256": "59C8141D1088B3AB5480493C633D411E08BD605E9E17955E06AC4C92B9EED3B5"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep001\\script.md",
+    "SHA256": "08C0D4155140B2AB13A9B33A12BA339DAF279C23BC87568AA560D1A2428EF77E"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep001\\writer-notes.md",
+    "SHA256": "C0962F91D6E6E7D264BE8DF4C8C4422C3E868B24476150E7C2E21ACDCE834E93"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep002\\audio-metadata.json",
+    "SHA256": "D49F5DBC8A222828C7949A6253AE961ED87AC03B8F9751C1E8DDA81D97DBC796"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep002\\metadata.json",
+    "SHA256": "9A6C79975A49FBC3F24AC0F574036B0A2AF6A26EC7A2B7DDDC1F20FF2795D417"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep002\\script.md",
+    "SHA256": "7294C5A10AD007F5FCD303664CADDACB3960C6870A6AA6DFBD08CE63B6D1494A"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep002\\writer-notes.md",
+    "SHA256": "CCE7D79D4D5D04E0E06A1647C025AFBB1850148AFB9BE67BB8A428DB4C5AB7C3"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\audio-metadata.json",
+    "SHA256": "423B8E95DE4B17D829A2BCA88AD4319637B1BF657DC4C78AC458B4C5658CD7E8"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\metadata-v1.json",
+    "SHA256": "0918FE0708839470604A12D5B1B4948BB136B285FF592C0EAD86F6EB70013BE3"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\metadata.json",
+    "SHA256": "C3C75BE6A4E500FDAE84CBB082D83543CD239E4D75E56771FD01DB8899E0D0C9"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\script-v1.md",
+    "SHA256": "BB5B120F48A2F7F4188176F3DB35E5F31AE850CC73A0B28CBEB59FF11195C495"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\script.md",
+    "SHA256": "9E369C7968B81DA92AB8E3D9C6F3B73C8D59836DE4F13E2FF6BD13A06BBA70AE"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\writer-notes-v1.md",
+    "SHA256": "8F6C3AFE87B046585A42CDA4917894FF5F784F33BCD9D7059B630550137B41E3"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\episodes\\ep003\\writer-notes.md",
+    "SHA256": "0ECD7EA37CA5070BFA81DC8D864A1BBD796B8C8B0F2FFDFF24EBCD7441526A8A"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\world\\compact-economy.md",
+    "SHA256": "C080BF74C458F5D4288E4B06C14688868698ED567FCD1DD20837898F95EE2D46"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\world\\glossary.md",
+    "SHA256": "24E5E0C0203DDD01D8E147D65226E6E359C714DB5D25EA4083C4A7B1B7A287C8"
+  },
+  {
+    "OriginalPath": "series\\the-future-economy\\world\\timeline.md",
+    "SHA256": "092B6A6F5EEE781A2A7DA50EEBFC8B77767AF00500F42AAEDE1F1C926EFDFC5C"
+  },
+  {
+    "OriginalPath": "The Future Economy\\novel-plan-weight-of-real-things.md",
+    "SHA256": "7304F8306B4D2F31C22B07606D93321851022EDB45DA137053C6357005C9ECD4"
+  }
+]
